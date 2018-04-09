@@ -1,0 +1,1514 @@
+Loading models...
+Models Loaded.
+9 4 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8158516011196347
+pearson-coefficient for train_fear_:  0.8679565807363511
+pearson-coefficient for train_joy_:  0.7812839449381681
+pearson-coefficient for train_sadness_:  0.7842058486570704
+Avg of pearson-coefficients for all the four emotions:  0.8123244938628061
+9 4 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8609321785776
+pearson-coefficient for train_fear_:  0.782681411962927
+pearson-coefficient for train_joy_:  0.7903857062606263
+pearson-coefficient for train_sadness_:  0.8403683380903038
+Avg of pearson-coefficients for all the four emotions:  0.8185919087228644
+9 4 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.882625021542698
+pearson-coefficient for train_fear_:  0.8383443716037889
+pearson-coefficient for train_joy_:  0.7867052132190325
+pearson-coefficient for train_sadness_:  0.8232688105476279
+Avg of pearson-coefficients for all the four emotions:  0.8327358542282868
+9 4 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8330941794002625
+pearson-coefficient for train_fear_:  0.8157200318281957
+pearson-coefficient for train_joy_:  0.8023978941671145
+pearson-coefficient for train_sadness_:  0.8134409646121971
+Avg of pearson-coefficients for all the four emotions:  0.8161632675019425
+9 4 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.782605599401053
+pearson-coefficient for train_fear_:  0.7940051922765177
+pearson-coefficient for train_joy_:  0.7786953531580385
+pearson-coefficient for train_sadness_:  0.7978289762055438
+Avg of pearson-coefficients for all the four emotions:  0.7882837802602882
+9 4 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8130061950178471
+pearson-coefficient for train_fear_:  0.8357615314507589
+pearson-coefficient for train_joy_:  0.8846885844884681
+pearson-coefficient for train_sadness_:  0.8362541445971469
+Avg of pearson-coefficients for all the four emotions:  0.8424276138885552
+9 5 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8536862188610469
+pearson-coefficient for train_fear_:  0.850507858139726
+pearson-coefficient for train_joy_:  0.5969572573296249
+pearson-coefficient for train_sadness_:  0.78341943504297
+Avg of pearson-coefficients for all the four emotions:  0.771142692343342
+9 5 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8467608767698055
+pearson-coefficient for train_fear_:  0.8115794421513416
+pearson-coefficient for train_joy_:  0.8179278450358375
+pearson-coefficient for train_sadness_:  0.8004847875522522
+Avg of pearson-coefficients for all the four emotions:  0.8191882378773092
+9 5 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8438392698555118
+pearson-coefficient for train_fear_:  0.8772004002224014
+pearson-coefficient for train_joy_:  0.8307532903487147
+pearson-coefficient for train_sadness_:  0.8292596742517047
+Avg of pearson-coefficients for all the four emotions:  0.8452631586695831
+9 5 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8050707368780082
+pearson-coefficient for train_fear_:  0.832273050546704
+pearson-coefficient for train_joy_:  0.5966774616650637
+pearson-coefficient for train_sadness_:  0.5807612290512022
+Avg of pearson-coefficients for all the four emotions:  0.7036956195352445
+9 5 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8515875627543313
+pearson-coefficient for train_fear_:  0.8814988325246402
+pearson-coefficient for train_joy_:  0.5848997312847225
+pearson-coefficient for train_sadness_:  0.7939798776665556
+Avg of pearson-coefficients for all the four emotions:  0.7779915010575624
+9 5 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.9101065920331558
+pearson-coefficient for train_fear_:  0.7627311893782227
+pearson-coefficient for train_joy_:  0.8914445792268397
+pearson-coefficient for train_sadness_:  0.8546711974549714
+Avg of pearson-coefficients for all the four emotions:  0.8547383895232974
+9 6 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7680257322592111
+pearson-coefficient for train_fear_:  0.8136179777115612
+pearson-coefficient for train_joy_:  0.6994902115875463
+pearson-coefficient for train_sadness_:  0.7872475491191885
+Avg of pearson-coefficients for all the four emotions:  0.7670953676693768
+9 6 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8935865058907081
+pearson-coefficient for train_fear_:  0.8803974730349167
+pearson-coefficient for train_joy_:  0.8464829406978661
+pearson-coefficient for train_sadness_:  0.7136560235231492
+Avg of pearson-coefficients for all the four emotions:  0.83353073578666
+9 6 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7861827539514906
+pearson-coefficient for train_fear_:  0.8440327592507304
+pearson-coefficient for train_joy_:  0.7178757846364197
+pearson-coefficient for train_sadness_:  0.838302187942084
+Avg of pearson-coefficients for all the four emotions:  0.7965983714451812
+9 6 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7835555236835682
+pearson-coefficient for train_fear_:  0.8192938564731879
+pearson-coefficient for train_joy_:  0.7358290837625023
+pearson-coefficient for train_sadness_:  0.746071305667036
+Avg of pearson-coefficients for all the four emotions:  0.7711874423965737
+9 6 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8698677831213643
+pearson-coefficient for train_fear_:  0.8003655836726395
+pearson-coefficient for train_joy_:  0.7236766093180561
+pearson-coefficient for train_sadness_:  0.8730010243329904
+Avg of pearson-coefficients for all the four emotions:  0.8167277501112626
+9 6 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7876577525684406
+pearson-coefficient for train_fear_:  0.877171172129288
+pearson-coefficient for train_joy_:  0.8225135007847355
+pearson-coefficient for train_sadness_:  0.8258404548487296
+Avg of pearson-coefficients for all the four emotions:  0.8282957200827985
+9 7 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8306771068519649
+pearson-coefficient for train_fear_:  0.585481025202178
+pearson-coefficient for train_joy_:  0.5721495634170829
+pearson-coefficient for train_sadness_:  0.6593258089928277
+Avg of pearson-coefficients for all the four emotions:  0.6619083761160134
+9 7 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8144549234590408
+pearson-coefficient for train_fear_:  0.8781140097837935
+pearson-coefficient for train_joy_:  0.7962899406226436
+pearson-coefficient for train_sadness_:  0.7592054426287675
+Avg of pearson-coefficients for all the four emotions:  0.8120160791235613
+9 7 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8623724290656437
+pearson-coefficient for train_fear_:  0.9040359500126433
+pearson-coefficient for train_joy_:  0.7304226420879107
+pearson-coefficient for train_sadness_:  0.8015497565989143
+Avg of pearson-coefficients for all the four emotions:  0.824595194441278
+9 7 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8232962140839375
+pearson-coefficient for train_fear_:  0.786889707309937
+pearson-coefficient for train_joy_:  0.75986272991376
+pearson-coefficient for train_sadness_:  0.7478058178795729
+Avg of pearson-coefficients for all the four emotions:  0.7794636172968019
+9 7 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.858248249208684
+pearson-coefficient for train_fear_:  0.8311127268605738
+pearson-coefficient for train_joy_:  0.49705046325476376
+pearson-coefficient for train_sadness_:  0.4742244774919574
+Avg of pearson-coefficients for all the four emotions:  0.6651589792039948
+9 7 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8673935127757203
+pearson-coefficient for train_fear_:  0.8314125510777872
+pearson-coefficient for train_joy_:  0.5890610251945201
+pearson-coefficient for train_sadness_:  0.8320239303810225
+Avg of pearson-coefficients for all the four emotions:  0.7799727548572626
+9 8 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7593141085578241
+pearson-coefficient for train_fear_:  0.7636049334080887
+pearson-coefficient for train_joy_:  0.776453107016383
+pearson-coefficient for train_sadness_:  0.8006243840056855
+Avg of pearson-coefficients for all the four emotions:  0.7749991332469953
+9 8 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8151915789439355
+pearson-coefficient for train_fear_:  0.8156858608829297
+pearson-coefficient for train_joy_:  0.8674888412620535
+pearson-coefficient for train_sadness_:  0.7116242505605438
+Avg of pearson-coefficients for all the four emotions:  0.8024976329123656
+9 8 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7807956884048085
+pearson-coefficient for train_fear_:  0.8093983024708712
+pearson-coefficient for train_joy_:  0.6899841708607618
+pearson-coefficient for train_sadness_:  0.6349010515816907
+Avg of pearson-coefficients for all the four emotions:  0.728769803329533
+9 8 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8735395107478617
+pearson-coefficient for train_fear_:  0.8655158354760282
+pearson-coefficient for train_joy_:  0.9189826724468838
+pearson-coefficient for train_sadness_:  0.7037365643731627
+Avg of pearson-coefficients for all the four emotions:  0.8404436457609841
+9 8 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7894970333481763
+pearson-coefficient for train_fear_:  0.8720144367238823
+pearson-coefficient for train_joy_:  0.682614641795494
+pearson-coefficient for train_sadness_:  0.8877904513376286
+Avg of pearson-coefficients for all the four emotions:  0.8079791408012953
+9 8 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8831465687471093
+pearson-coefficient for train_fear_:  0.8774907237536103
+pearson-coefficient for train_joy_:  0.7903558571128071
+pearson-coefficient for train_sadness_:  0.49020186703094587
+Avg of pearson-coefficients for all the four emotions:  0.7602987541611183
+9 9 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8205188491704779
+pearson-coefficient for train_fear_:  0.8305785568924694
+pearson-coefficient for train_joy_:  0.8250618151120588
+pearson-coefficient for train_sadness_:  0.6381373882179964
+Avg of pearson-coefficients for all the four emotions:  0.7785741523482507
+9 9 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8761740704528029
+pearson-coefficient for train_fear_:  0.8452749641024393
+pearson-coefficient for train_joy_:  0.8643388016187301
+pearson-coefficient for train_sadness_:  0.7963956766281728
+Avg of pearson-coefficients for all the four emotions:  0.8455458782005363
+9 9 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8197174977961644
+pearson-coefficient for train_fear_:  0.8793147799472151
+pearson-coefficient for train_joy_:  0.8566906467142956
+pearson-coefficient for train_sadness_:  0.43461790530872335
+Avg of pearson-coefficients for all the four emotions:  0.7475852074415996
+9 9 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7825555939287504
+pearson-coefficient for train_fear_:  0.8340791255608366
+pearson-coefficient for train_joy_:  0.6841474133353438
+pearson-coefficient for train_sadness_:  0.756178019364931
+Avg of pearson-coefficients for all the four emotions:  0.7642400380474654
+9 9 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6500595082147483
+pearson-coefficient for train_fear_:  0.8199339345304862
+pearson-coefficient for train_joy_:  0.608393165236642
+pearson-coefficient for train_sadness_:  0.8205026992360187
+Avg of pearson-coefficients for all the four emotions:  0.7247223268044738
+9 9 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8410674754141209
+pearson-coefficient for train_fear_:  0.8825535651667502
+pearson-coefficient for train_joy_:  0.8766916452995952
+pearson-coefficient for train_sadness_:  0.5661437536566327
+Avg of pearson-coefficients for all the four emotions:  0.7916141098842748
+10 4 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8596548480075278
+pearson-coefficient for train_fear_:  0.8681303646701218
+pearson-coefficient for train_joy_:  0.5309139940410129
+pearson-coefficient for train_sadness_:  0.8285719349731768
+Avg of pearson-coefficients for all the four emotions:  0.7718177854229599
+10 4 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7443720137411944
+pearson-coefficient for train_fear_:  0.8297193589443395
+pearson-coefficient for train_joy_:  0.7848454337843934
+pearson-coefficient for train_sadness_:  0.7687381240286918
+Avg of pearson-coefficients for all the four emotions:  0.7819187326246547
+10 4 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6474487099791028
+pearson-coefficient for train_fear_:  0.728769432465256
+pearson-coefficient for train_joy_:  0.3837058244161977
+pearson-coefficient for train_sadness_:  0.6078545503158765
+Avg of pearson-coefficients for all the four emotions:  0.5919446292941082
+10 4 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6630773167363921
+pearson-coefficient for train_fear_:  0.8264355165914162
+pearson-coefficient for train_joy_:  0.7872177534647185
+pearson-coefficient for train_sadness_:  0.784206548418545
+Avg of pearson-coefficients for all the four emotions:  0.765234283802768
+10 4 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8225359883411495
+pearson-coefficient for train_fear_:  0.5775547813477501
+pearson-coefficient for train_joy_:  0.8248626084421702
+pearson-coefficient for train_sadness_:  0.7304935994038949
+Avg of pearson-coefficients for all the four emotions:  0.7388617443837412
+10 4 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8392536362509497
+pearson-coefficient for train_fear_:  0.8797547745341445
+pearson-coefficient for train_joy_:  0.8463885770755861
+pearson-coefficient for train_sadness_:  0.8831280706486546
+Avg of pearson-coefficients for all the four emotions:  0.8621312646273337
+10 5 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8455030093047002
+pearson-coefficient for train_fear_:  0.6604661901554252
+pearson-coefficient for train_joy_:  0.17897822306347852
+pearson-coefficient for train_sadness_:  0.7048692707861846
+Avg of pearson-coefficients for all the four emotions:  0.5974541733274471
+10 5 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8879937143329765
+pearson-coefficient for train_fear_:  0.8735270816620454
+pearson-coefficient for train_joy_:  0.7095326656664519
+pearson-coefficient for train_sadness_:  0.8281579362010151
+Avg of pearson-coefficients for all the four emotions:  0.8248028494656222
+10 5 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8090302883792994
+pearson-coefficient for train_fear_:  0.8543904288595731
+pearson-coefficient for train_joy_:  0.9063396171422147
+pearson-coefficient for train_sadness_:  0.8064053545615089
+Avg of pearson-coefficients for all the four emotions:  0.8440414222356489
+10 5 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7523618995821922
+pearson-coefficient for train_fear_:  0.8240540233352215
+pearson-coefficient for train_joy_:  0.8006854442718173
+pearson-coefficient for train_sadness_:  0.6809775700742525
+Avg of pearson-coefficients for all the four emotions:  0.764519734315871
+10 5 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8648165652605
+pearson-coefficient for train_fear_:  0.8943654330005096
+pearson-coefficient for train_joy_:  0.8421155138002572
+pearson-coefficient for train_sadness_:  0.790650463872194
+Avg of pearson-coefficients for all the four emotions:  0.8479869939833652
+10 5 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7253968749117529
+pearson-coefficient for train_fear_:  0.8530684803586779
+pearson-coefficient for train_joy_:  0.8333761662996002
+pearson-coefficient for train_sadness_:  0.7873195623211916
+Avg of pearson-coefficients for all the four emotions:  0.7997902709728056
+10 6 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8311255584262406
+pearson-coefficient for train_fear_:  0.8741300263717421
+pearson-coefficient for train_joy_:  0.8814651797006369
+pearson-coefficient for train_sadness_:  0.7987824202390746
+Avg of pearson-coefficients for all the four emotions:  0.8463757961844236
+10 6 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8728971919224827
+pearson-coefficient for train_fear_:  0.8637247337880501
+pearson-coefficient for train_joy_:  0.8122863603614774
+pearson-coefficient for train_sadness_:  0.8013877232991112
+Avg of pearson-coefficients for all the four emotions:  0.8375740023427805
+10 6 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7165223593868563
+pearson-coefficient for train_fear_:  0.7819335377044407
+pearson-coefficient for train_joy_:  0.8607418846983237
+pearson-coefficient for train_sadness_:  0.71565562325593
+Avg of pearson-coefficients for all the four emotions:  0.7687133512613876
+10 6 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.9124607697360505
+pearson-coefficient for train_fear_:  0.8989776733838838
+pearson-coefficient for train_joy_:  0.8190054850923932
+pearson-coefficient for train_sadness_:  0.5842003641643234
+Avg of pearson-coefficients for all the four emotions:  0.8036610730941627
+10 6 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7537551247997344
+pearson-coefficient for train_fear_:  0.8434291791511885
+pearson-coefficient for train_joy_:  0.7643072164878287
+pearson-coefficient for train_sadness_:  0.7131826470399254
+Avg of pearson-coefficients for all the four emotions:  0.7686685418696693
+10 6 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8754530363625356
+pearson-coefficient for train_fear_:  0.8789856443427924
+pearson-coefficient for train_joy_:  0.8481218416039114
+pearson-coefficient for train_sadness_:  0.7400645628724086
+Avg of pearson-coefficients for all the four emotions:  0.835656271295412
+10 7 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.821916193781552
+pearson-coefficient for train_fear_:  0.6009068409601349
+pearson-coefficient for train_joy_:  0.7016055838274501
+pearson-coefficient for train_sadness_:  0.7161490301866882
+Avg of pearson-coefficients for all the four emotions:  0.7101444121889564
+10 7 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8651874534308479
+pearson-coefficient for train_fear_:  0.7916761877991823
+pearson-coefficient for train_joy_:  0.7014645413497826
+pearson-coefficient for train_sadness_:  0.8327217430164837
+Avg of pearson-coefficients for all the four emotions:  0.7977624813990741
+10 7 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8076621965287922
+pearson-coefficient for train_fear_:  0.8584778413818772
+pearson-coefficient for train_joy_:  0.8479134674496016
+pearson-coefficient for train_sadness_:  0.45671400953176955
+Avg of pearson-coefficients for all the four emotions:  0.7426918787230101
+10 7 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.833569968540389
+pearson-coefficient for train_fear_:  0.8735354256724949
+pearson-coefficient for train_joy_:  0.6660059446421808
+pearson-coefficient for train_sadness_:  0.7932998294663117
+Avg of pearson-coefficients for all the four emotions:  0.7916027920803441
+10 7 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6617990314639944
+pearson-coefficient for train_fear_:  0.8825506150201492
+pearson-coefficient for train_joy_:  0.6462521239185829
+pearson-coefficient for train_sadness_:  0.789053861823677
+Avg of pearson-coefficients for all the four emotions:  0.7449139080566008
+10 7 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8728618388139474
+pearson-coefficient for train_fear_:  0.8551552528626256
+pearson-coefficient for train_joy_:  0.7784745030126751
+pearson-coefficient for train_sadness_:  0.7462424791813109
+Avg of pearson-coefficients for all the four emotions:  0.8131835184676397
+10 8 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8583515114510625
+pearson-coefficient for train_fear_:  0.8996323113716305
+pearson-coefficient for train_joy_:  0.8382267712926388
+pearson-coefficient for train_sadness_:  0.5442895506825155
+Avg of pearson-coefficients for all the four emotions:  0.7851250361994618
+10 8 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8044381216200066
+pearson-coefficient for train_fear_:  0.8586677973025101
+pearson-coefficient for train_joy_:  0.7726543791313971
+pearson-coefficient for train_sadness_:  0.6941050409808822
+Avg of pearson-coefficients for all the four emotions:  0.782466334758699
+10 8 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6926860241229809
+pearson-coefficient for train_fear_:  0.8500101530373383
+pearson-coefficient for train_joy_:  0.6521539743568778
+pearson-coefficient for train_sadness_:  0.7657836533775334
+Avg of pearson-coefficients for all the four emotions:  0.7401584512236825
+10 8 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7777698630772404
+pearson-coefficient for train_fear_:  0.8309439338114063
+pearson-coefficient for train_joy_:  0.7953829434654536
+pearson-coefficient for train_sadness_:  0.6385997196195167
+Avg of pearson-coefficients for all the four emotions:  0.7606741149934042
+10 8 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7868227438153331
+pearson-coefficient for train_fear_:  0.7554777631019696
+pearson-coefficient for train_joy_:  0.7454044831141864
+pearson-coefficient for train_sadness_:  0.704446223814905
+Avg of pearson-coefficients for all the four emotions:  0.7480378034615986
+10 8 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8207237169519266
+pearson-coefficient for train_fear_:  0.871143693152933
+pearson-coefficient for train_joy_:  0.8618221520150122
+pearson-coefficient for train_sadness_:  0.794381135906525
+Avg of pearson-coefficients for all the four emotions:  0.8370176745065993
+10 9 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7147582217746598
+pearson-coefficient for train_fear_:  0.892952362022998
+pearson-coefficient for train_joy_:  0.8464745475362289
+pearson-coefficient for train_sadness_:  0.8410728130747733
+Avg of pearson-coefficients for all the four emotions:  0.823814486102165
+10 9 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7481029504766853
+pearson-coefficient for train_fear_:  0.7058437768343476
+pearson-coefficient for train_joy_:  0.6303971340452379
+pearson-coefficient for train_sadness_:  0.8015150790123455
+Avg of pearson-coefficients for all the four emotions:  0.7214647350921541
+10 9 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.819944061696073
+pearson-coefficient for train_fear_:  0.8436794872201541
+pearson-coefficient for train_joy_:  0.680351348892321
+pearson-coefficient for train_sadness_:  0.7464426642853444
+Avg of pearson-coefficients for all the four emotions:  0.7726043905234731
+10 9 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8019382612365782
+pearson-coefficient for train_fear_:  0.8277146976254627
+pearson-coefficient for train_joy_:  0.7630972773717353
+pearson-coefficient for train_sadness_:  0.6459156247099076
+Avg of pearson-coefficients for all the four emotions:  0.7596664652359209
+10 9 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8667626583716895
+pearson-coefficient for train_fear_:  0.8925636588961339
+pearson-coefficient for train_joy_:  0.6986124199085882
+pearson-coefficient for train_sadness_:  0.743087403303516
+Avg of pearson-coefficients for all the four emotions:  0.8002565351199818
+10 9 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.866813639372203
+pearson-coefficient for train_fear_:  0.9113232382729802
+pearson-coefficient for train_joy_:  0.870125681124835
+pearson-coefficient for train_sadness_:  0.7363103933249519
+Avg of pearson-coefficients for all the four emotions:  0.8461432380237425
+11 4 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7699645875174453
+pearson-coefficient for train_fear_:  0.8387290346438023
+pearson-coefficient for train_joy_:  0.8322230946068964
+pearson-coefficient for train_sadness_:  0.7580981833629526
+Avg of pearson-coefficients for all the four emotions:  0.7997537250327742
+11 4 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7508282531873001
+pearson-coefficient for train_fear_:  0.8318504653091947
+pearson-coefficient for train_joy_:  0.7924816608297649
+pearson-coefficient for train_sadness_:  0.749216922253735
+Avg of pearson-coefficients for all the four emotions:  0.7810943253949987
+11 4 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8584728799341526
+pearson-coefficient for train_fear_:  0.8985419007401279
+pearson-coefficient for train_joy_:  0.6397277724412475
+pearson-coefficient for train_sadness_:  0.8160841226904222
+Avg of pearson-coefficients for all the four emotions:  0.8032066689514875
+11 4 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8431778892983268
+pearson-coefficient for train_fear_:  0.8666758794284224
+pearson-coefficient for train_joy_:  0.8500526953858233
+pearson-coefficient for train_sadness_:  0.6217036980468406
+Avg of pearson-coefficients for all the four emotions:  0.7954025405398533
+11 4 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6761760165845039
+pearson-coefficient for train_fear_:  0.7852054290579691
+pearson-coefficient for train_joy_:  0.5078594206179128
+pearson-coefficient for train_sadness_:  0.7540650500307616
+Avg of pearson-coefficients for all the four emotions:  0.6808264790727868
+11 4 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7747495969106668
+pearson-coefficient for train_fear_:  0.8554677643341014
+pearson-coefficient for train_joy_:  0.8423114559740604
+pearson-coefficient for train_sadness_:  0.7332229901820745
+Avg of pearson-coefficients for all the four emotions:  0.8014379518502258
+11 5 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8553021727507655
+pearson-coefficient for train_fear_:  0.8933093713199525
+pearson-coefficient for train_joy_:  0.8095046049852471
+pearson-coefficient for train_sadness_:  0.8234436835950855
+Avg of pearson-coefficients for all the four emotions:  0.8453899581627626
+11 5 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8115067095225899
+pearson-coefficient for train_fear_:  0.7401579518813408
+pearson-coefficient for train_joy_:  0.5108413439216384
+pearson-coefficient for train_sadness_:  0.6938361298207492
+Avg of pearson-coefficients for all the four emotions:  0.6890855337865796
+11 5 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8830278022470724
+pearson-coefficient for train_fear_:  0.8491607282700101
+pearson-coefficient for train_joy_:  0.7488818016876236
+pearson-coefficient for train_sadness_:  0.5160187123836648
+Avg of pearson-coefficients for all the four emotions:  0.7492722611470928
+11 5 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8443238586496311
+pearson-coefficient for train_fear_:  0.9095897089900014
+pearson-coefficient for train_joy_:  0.6772863754722904
+pearson-coefficient for train_sadness_:  0.7588990663956345
+Avg of pearson-coefficients for all the four emotions:  0.7975247523768894
+11 5 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7664117487814974
+pearson-coefficient for train_fear_:  0.8736680640246958
+pearson-coefficient for train_joy_:  0.8582484294060694
+pearson-coefficient for train_sadness_:  0.7372597159890503
+Avg of pearson-coefficients for all the four emotions:  0.8088969895503282
+11 5 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7442594598332984
+pearson-coefficient for train_fear_:  0.8867066724929377
+pearson-coefficient for train_joy_:  0.839970275870458
+pearson-coefficient for train_sadness_:  0.685695611020957
+Avg of pearson-coefficients for all the four emotions:  0.7891580048044128
+11 6 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8266468346102551
+pearson-coefficient for train_fear_:  0.7519760948413188
+pearson-coefficient for train_joy_:  0.836587135322916
+pearson-coefficient for train_sadness_:  0.7574068621574026
+Avg of pearson-coefficients for all the four emotions:  0.7931542317329732
+11 6 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8775317513788531
+pearson-coefficient for train_fear_:  0.933583320796244
+pearson-coefficient for train_joy_:  0.8570743976129959
+pearson-coefficient for train_sadness_:  0.8453832308340411
+Avg of pearson-coefficients for all the four emotions:  0.8783931751555335
+11 6 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7660370035904995
+pearson-coefficient for train_fear_:  0.8786795813604011
+pearson-coefficient for train_joy_:  0.6416296066616913
+pearson-coefficient for train_sadness_:  0.8580714423737252
+Avg of pearson-coefficients for all the four emotions:  0.7861044084965794
+11 6 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7930922552787089
+pearson-coefficient for train_fear_:  0.9220246628325645
+pearson-coefficient for train_joy_:  0.8919964179302128
+pearson-coefficient for train_sadness_:  0.3843203900386122
+Avg of pearson-coefficients for all the four emotions:  0.7478584315200246
+11 6 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.786639736239706
+pearson-coefficient for train_fear_:  0.8372414983609027
+pearson-coefficient for train_joy_:  0.7768720040101451
+pearson-coefficient for train_sadness_:  0.7908161749429669
+Avg of pearson-coefficients for all the four emotions:  0.7978923533884301
+11 6 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8353696362712754
+pearson-coefficient for train_fear_:  0.8279399323898633
+pearson-coefficient for train_joy_:  0.5240503220665382
+pearson-coefficient for train_sadness_:  0.7016721590495701
+Avg of pearson-coefficients for all the four emotions:  0.7222580124443118
+11 7 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8705433893975603
+pearson-coefficient for train_fear_:  0.858984973923525
+pearson-coefficient for train_joy_:  0.44161920981356906
+pearson-coefficient for train_sadness_:  0.43808838025063757
+Avg of pearson-coefficients for all the four emotions:  0.652308988346323
+11 7 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8659269515679914
+pearson-coefficient for train_fear_:  0.868196779370344
+pearson-coefficient for train_joy_:  0.76309267756739
+pearson-coefficient for train_sadness_:  0.7531121390525588
+Avg of pearson-coefficients for all the four emotions:  0.8125821368895711
+11 7 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8290350667512052
+pearson-coefficient for train_fear_:  0.795219966371728
+pearson-coefficient for train_joy_:  0.8043136623768434
+pearson-coefficient for train_sadness_:  0.8272707491842328
+Avg of pearson-coefficients for all the four emotions:  0.8139598611710023
+11 7 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.733589718714505
+pearson-coefficient for train_fear_:  0.7794824808458641
+pearson-coefficient for train_joy_:  0.7991153822096101
+pearson-coefficient for train_sadness_:  0.820643151811904
+Avg of pearson-coefficients for all the four emotions:  0.7832076833954708
+11 7 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8467749708302269
+pearson-coefficient for train_fear_:  0.9283055763492772
+pearson-coefficient for train_joy_:  0.6137292253021996
+pearson-coefficient for train_sadness_:  0.8122686006726797
+Avg of pearson-coefficients for all the four emotions:  0.8002695932885958
+11 7 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8315484398087373
+pearson-coefficient for train_fear_:  0.7570003922135033
+pearson-coefficient for train_joy_:  0.8064616356149195
+pearson-coefficient for train_sadness_:  0.6016073398465261
+Avg of pearson-coefficients for all the four emotions:  0.7491544518709216
+11 8 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8994952028797669
+pearson-coefficient for train_fear_:  0.8142842797003208
+pearson-coefficient for train_joy_:  0.7844485641597103
+pearson-coefficient for train_sadness_:  0.6500494927816339
+Avg of pearson-coefficients for all the four emotions:  0.7870693848803579
+11 8 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8187136677846997
+pearson-coefficient for train_fear_:  0.8152737886471877
+pearson-coefficient for train_joy_:  0.8796762104039609
+pearson-coefficient for train_sadness_:  0.6876150339008686
+Avg of pearson-coefficients for all the four emotions:  0.8003196751841792
+11 8 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6790914804080412
+pearson-coefficient for train_fear_:  0.8552428378579828
+pearson-coefficient for train_joy_:  0.7752656016160948
+pearson-coefficient for train_sadness_:  0.8310329725860109
+Avg of pearson-coefficients for all the four emotions:  0.7851582231170324
+11 8 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7137092355882105
+pearson-coefficient for train_fear_:  0.6833339503045712
+pearson-coefficient for train_joy_:  0.7803277948825333
+pearson-coefficient for train_sadness_:  0.8379359719919394
+Avg of pearson-coefficients for all the four emotions:  0.7538267381918136
+11 8 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8995785458337305
+pearson-coefficient for train_fear_:  0.8469217998290448
+pearson-coefficient for train_joy_:  0.7783040234397904
+pearson-coefficient for train_sadness_:  0.7434979276556812
+Avg of pearson-coefficients for all the four emotions:  0.8170755741895618
+11 8 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.861891018472566
+pearson-coefficient for train_fear_:  0.8988849340182031
+pearson-coefficient for train_joy_:  0.7312770873980844
+pearson-coefficient for train_sadness_:  0.7647181046993166
+Avg of pearson-coefficients for all the four emotions:  0.8141927861470425
+11 9 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8682475857628701
+pearson-coefficient for train_fear_:  0.8051906835134405
+pearson-coefficient for train_joy_:  0.7529780649754642
+pearson-coefficient for train_sadness_:  0.7594837777182711
+Avg of pearson-coefficients for all the four emotions:  0.7964750279925115
+11 9 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8401496353019238
+pearson-coefficient for train_fear_:  0.8694984466745432
+pearson-coefficient for train_joy_:  0.7870515791095498
+pearson-coefficient for train_sadness_:  0.80337511935461
+Avg of pearson-coefficients for all the four emotions:  0.8250186951101567
+11 9 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.9243170123830022
+pearson-coefficient for train_fear_:  0.7641672200192074
+pearson-coefficient for train_joy_:  0.8113001380422271
+pearson-coefficient for train_sadness_:  0.7678669486612406
+Avg of pearson-coefficients for all the four emotions:  0.8169128297764194
+11 9 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8334011665157943
+pearson-coefficient for train_fear_:  0.7497064392515985
+pearson-coefficient for train_joy_:  0.7757550148899435
+pearson-coefficient for train_sadness_:  0.8056062993149463
+Avg of pearson-coefficients for all the four emotions:  0.7911172299930707
+11 9 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.868830977407315
+pearson-coefficient for train_fear_:  0.885783111834343
+pearson-coefficient for train_joy_:  0.8359847017982901
+pearson-coefficient for train_sadness_:  0.8121422083903085
+Avg of pearson-coefficients for all the four emotions:  0.8506852498575641
+11 9 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.79936763706908
+pearson-coefficient for train_fear_:  0.6966398947940189
+pearson-coefficient for train_joy_:  0.8329399205237192
+pearson-coefficient for train_sadness_:  0.4416049583417424
+Avg of pearson-coefficients for all the four emotions:  0.6926381026821401
+12 4 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8750636482567898
+pearson-coefficient for train_fear_:  0.7412542677678893
+pearson-coefficient for train_joy_:  0.8361465287669397
+pearson-coefficient for train_sadness_:  0.8446062132229967
+Avg of pearson-coefficients for all the four emotions:  0.824267664503654
+12 4 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8146583379198126
+pearson-coefficient for train_fear_:  0.7737384626504081
+pearson-coefficient for train_joy_:  0.6954129481963334
+pearson-coefficient for train_sadness_:  0.6496653882130636
+Avg of pearson-coefficients for all the four emotions:  0.7333687842449045
+12 4 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7605997995339511
+pearson-coefficient for train_fear_:  0.5220190161236477
+pearson-coefficient for train_joy_:  0.7179060851707737
+pearson-coefficient for train_sadness_:  0.8221291311193194
+Avg of pearson-coefficients for all the four emotions:  0.7056635079869229
+12 4 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.79521619049533
+pearson-coefficient for train_fear_:  0.8237649895220513
+pearson-coefficient for train_joy_:  0.4650745278173783
+pearson-coefficient for train_sadness_:  0.8570757449471166
+Avg of pearson-coefficients for all the four emotions:  0.735282863195469
+12 4 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7553321061115793
+pearson-coefficient for train_fear_:  0.912775042943938
+pearson-coefficient for train_joy_:  0.6973771776626229
+pearson-coefficient for train_sadness_:  0.11109034690817304
+Avg of pearson-coefficients for all the four emotions:  0.6191436684065783
+12 4 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8181527254089513
+pearson-coefficient for train_fear_:  0.8436392848876495
+pearson-coefficient for train_joy_:  0.7634104570678089
+pearson-coefficient for train_sadness_:  0.8500380471143592
+Avg of pearson-coefficients for all the four emotions:  0.8188101286196923
+12 5 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6870228369446825
+pearson-coefficient for train_fear_:  0.799270972413454
+pearson-coefficient for train_joy_:  0.8278051822009403
+pearson-coefficient for train_sadness_:  0.7817055818209728
+Avg of pearson-coefficients for all the four emotions:  0.7739511433450124
+12 5 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8577198040427239
+pearson-coefficient for train_fear_:  0.8494242990314038
+pearson-coefficient for train_joy_:  0.8485426008926857
+pearson-coefficient for train_sadness_:  0.8388369742001286
+Avg of pearson-coefficients for all the four emotions:  0.8486309195417355
+12 5 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8713075402691001
+pearson-coefficient for train_fear_:  0.8499231199168376
+pearson-coefficient for train_joy_:  0.8975899794839561
+pearson-coefficient for train_sadness_:  0.7530802428100078
+Avg of pearson-coefficients for all the four emotions:  0.8429752206199754
+12 5 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.9306635923683497
+pearson-coefficient for train_fear_:  0.9143802775338346
+pearson-coefficient for train_joy_:  0.8300935215357559
+pearson-coefficient for train_sadness_:  0.6608651463308767
+Avg of pearson-coefficients for all the four emotions:  0.8340006344422042
+12 5 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8653029646277766
+pearson-coefficient for train_fear_:  0.8572276937730411
+pearson-coefficient for train_joy_:  0.7574079009671828
+pearson-coefficient for train_sadness_:  0.7705052706750231
+Avg of pearson-coefficients for all the four emotions:  0.8126109575107558
+12 5 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8289218848849063
+pearson-coefficient for train_fear_:  0.8556462902131012
+pearson-coefficient for train_joy_:  0.6964010980640636
+pearson-coefficient for train_sadness_:  0.756145846432738
+Avg of pearson-coefficients for all the four emotions:  0.7842787798987023
+12 6 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8046183542895475
+pearson-coefficient for train_fear_:  0.8926992553889992
+pearson-coefficient for train_joy_:  0.8925427844659577
+pearson-coefficient for train_sadness_:  0.8301047743732501
+Avg of pearson-coefficients for all the four emotions:  0.8549912921294387
+12 6 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8951100606425288
+pearson-coefficient for train_fear_:  0.7436072200386387
+pearson-coefficient for train_joy_:  0.8039827666962679
+pearson-coefficient for train_sadness_:  0.8147275102639571
+Avg of pearson-coefficients for all the four emotions:  0.8143568894103481
+12 6 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6825839696841159
+pearson-coefficient for train_fear_:  0.7603796034477786
+pearson-coefficient for train_joy_:  0.7648417845054399
+pearson-coefficient for train_sadness_:  0.3970781873296765
+Avg of pearson-coefficients for all the four emotions:  0.6512208862417528
+12 6 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8101769712352545
+pearson-coefficient for train_fear_:  0.7855791283287973
+pearson-coefficient for train_joy_:  0.5257148955800133
+pearson-coefficient for train_sadness_:  0.698298133449412
+Avg of pearson-coefficients for all the four emotions:  0.7049422821483693
+12 6 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7590583533014247
+pearson-coefficient for train_fear_:  0.8020317482311433
+pearson-coefficient for train_joy_:  0.8607881402869687
+pearson-coefficient for train_sadness_:  0.7840606836014861
+Avg of pearson-coefficients for all the four emotions:  0.8014847313552558
+12 6 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.834153453236628
+pearson-coefficient for train_fear_:  0.8364378804789346
+pearson-coefficient for train_joy_:  0.7337861068904238
+pearson-coefficient for train_sadness_:  0.7179983213383258
+Avg of pearson-coefficients for all the four emotions:  0.7805939404860781
+12 7 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8156621210259898
+pearson-coefficient for train_fear_:  0.7425410160306806
+pearson-coefficient for train_joy_:  0.8633346167178565
+pearson-coefficient for train_sadness_:  0.7768571865434989
+Avg of pearson-coefficients for all the four emotions:  0.7995987350795064
+12 7 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8179896347960782
+pearson-coefficient for train_fear_:  0.9222376498849063
+pearson-coefficient for train_joy_:  0.8007946750178263
+pearson-coefficient for train_sadness_:  0.8558702294425953
+Avg of pearson-coefficients for all the four emotions:  0.8492230472853515
+12 7 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.9048018300768552
+pearson-coefficient for train_fear_:  0.8773309516472083
+pearson-coefficient for train_joy_:  0.7911593706448554
+pearson-coefficient for train_sadness_:  0.818732782955901
+Avg of pearson-coefficients for all the four emotions:  0.8480062338312049
+12 7 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.851327163518295
+pearson-coefficient for train_fear_:  0.8227581818104397
+pearson-coefficient for train_joy_:  0.882036808773169
+pearson-coefficient for train_sadness_:  0.4443481698637007
+Avg of pearson-coefficients for all the four emotions:  0.7501175809914011
+12 7 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7640356278527859
+pearson-coefficient for train_fear_:  0.8467776057689709
+pearson-coefficient for train_joy_:  0.7840734762885067
+pearson-coefficient for train_sadness_:  0.7501889323933965
+Avg of pearson-coefficients for all the four emotions:  0.786268910575915
+12 7 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6931134361019585
+pearson-coefficient for train_fear_:  0.8684896804788305
+pearson-coefficient for train_joy_:  0.8034899557697577
+pearson-coefficient for train_sadness_:  0.8597140288124056
+Avg of pearson-coefficients for all the four emotions:  0.8062017752907381
+12 8 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.705615367344794
+pearson-coefficient for train_fear_:  0.8264293842081812
+pearson-coefficient for train_joy_:  0.7724002029170397
+pearson-coefficient for train_sadness_:  0.8049383357417177
+Avg of pearson-coefficients for all the four emotions:  0.7773458225529333
+12 8 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6865619576156216
+pearson-coefficient for train_fear_:  0.7515213322166084
+pearson-coefficient for train_joy_:  0.8394419746999745
+pearson-coefficient for train_sadness_:  0.7996144937074742
+Avg of pearson-coefficients for all the four emotions:  0.7692849395599196
+12 8 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8516836472473063
+pearson-coefficient for train_fear_:  0.7454859312740796
+pearson-coefficient for train_joy_:  0.8381845779750964
+pearson-coefficient for train_sadness_:  0.6221222764593024
+Avg of pearson-coefficients for all the four emotions:  0.7643691082389461
+12 8 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7130594126669048
+pearson-coefficient for train_fear_:  0.8420273795921915
+pearson-coefficient for train_joy_:  0.6801568002630346
+pearson-coefficient for train_sadness_:  0.8874541369638329
+Avg of pearson-coefficients for all the four emotions:  0.7806744323714909
+12 8 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8922516645050473
+pearson-coefficient for train_fear_:  0.7635547167547541
+pearson-coefficient for train_joy_:  0.8353031477044464
+pearson-coefficient for train_sadness_:  0.8880520004154471
+Avg of pearson-coefficients for all the four emotions:  0.8447903823449237
+12 8 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8052127721661189
+pearson-coefficient for train_fear_:  0.8124790960048263
+pearson-coefficient for train_joy_:  0.6958492307556033
+pearson-coefficient for train_sadness_:  0.6555046778245728
+Avg of pearson-coefficients for all the four emotions:  0.7422614441877804
+12 9 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8911319066980141
+pearson-coefficient for train_fear_:  0.8594512003121337
+pearson-coefficient for train_joy_:  0.5042106280956424
+pearson-coefficient for train_sadness_:  0.7248912158931863
+Avg of pearson-coefficients for all the four emotions:  0.7449212377497442
+12 9 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7259007292193131
+pearson-coefficient for train_fear_:  0.8570512275696786
+pearson-coefficient for train_joy_:  0.47594822094832584
+pearson-coefficient for train_sadness_:  0.8134264034722354
+Avg of pearson-coefficients for all the four emotions:  0.7180816453023882
+12 9 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7799175444577896
+pearson-coefficient for train_fear_:  0.8535279573223975
+pearson-coefficient for train_joy_:  0.7581013333243649
+pearson-coefficient for train_sadness_:  0.7778380844369648
+Avg of pearson-coefficients for all the four emotions:  0.7923462298853792
+12 9 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8791552055321532
+pearson-coefficient for train_fear_:  0.8148358308714692
+pearson-coefficient for train_joy_:  0.6149664348564375
+pearson-coefficient for train_sadness_:  0.5684210279312265
+Avg of pearson-coefficients for all the four emotions:  0.7193446247978216
+12 9 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8021343745678163
+pearson-coefficient for train_fear_:  0.7133368113279652
+pearson-coefficient for train_joy_:  0.5105244634992813
+pearson-coefficient for train_sadness_:  0.8528980038507351
+Avg of pearson-coefficients for all the four emotions:  0.7197234133114495
+12 9 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8668326842676527
+pearson-coefficient for train_fear_:  0.6136632568635163
+pearson-coefficient for train_joy_:  0.5755694400335765
+pearson-coefficient for train_sadness_:  0.7903042049372475
+Avg of pearson-coefficients for all the four emotions:  0.7115923965254982
+13 4 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8636070761498759
+pearson-coefficient for train_fear_:  0.8897220670608773
+pearson-coefficient for train_joy_:  0.7138731467883808
+pearson-coefficient for train_sadness_:  0.695096808785555
+Avg of pearson-coefficients for all the four emotions:  0.7905747746961722
+13 4 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8526007161258254
+pearson-coefficient for train_fear_:  0.8894036668736032
+pearson-coefficient for train_joy_:  0.8766623846230535
+pearson-coefficient for train_sadness_:  0.8456848767575852
+Avg of pearson-coefficients for all the four emotions:  0.8660879110950168
+13 4 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7844205802469426
+pearson-coefficient for train_fear_:  0.8507834565292847
+pearson-coefficient for train_joy_:  0.8353003289385069
+pearson-coefficient for train_sadness_:  0.8266056959241994
+Avg of pearson-coefficients for all the four emotions:  0.8242775154097334
+13 4 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.9005791307300217
+pearson-coefficient for train_fear_:  0.8073147628710792
+pearson-coefficient for train_joy_:  0.8900898471431179
+pearson-coefficient for train_sadness_:  0.7927444963356031
+Avg of pearson-coefficients for all the four emotions:  0.8476820592699555
+13 4 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8196421078329837
+pearson-coefficient for train_fear_:  0.8403407979971842
+pearson-coefficient for train_joy_:  0.7509323881988865
+pearson-coefficient for train_sadness_:  0.7741638592344531
+Avg of pearson-coefficients for all the four emotions:  0.7962697883158769
+13 4 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7630188692218481
+pearson-coefficient for train_fear_:  0.8274223927732912
+pearson-coefficient for train_joy_:  0.72402753925116
+pearson-coefficient for train_sadness_:  0.7019315688839238
+Avg of pearson-coefficients for all the four emotions:  0.7541000925325558
+13 5 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8802077759550315
+pearson-coefficient for train_fear_:  0.7803616540631056
+pearson-coefficient for train_joy_:  0.8266789261986401
+pearson-coefficient for train_sadness_:  0.7174393462102091
+Avg of pearson-coefficients for all the four emotions:  0.8011719256067467
+13 5 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8331800764213929
+pearson-coefficient for train_fear_:  0.848700119471336
+pearson-coefficient for train_joy_:  0.7244365419424192
+pearson-coefficient for train_sadness_:  0.751462376124797
+Avg of pearson-coefficients for all the four emotions:  0.7894447784899863
+13 5 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8959702086506672
+pearson-coefficient for train_fear_:  0.7817496731510312
+pearson-coefficient for train_joy_:  0.6868870707943673
+pearson-coefficient for train_sadness_:  0.7363787936949369
+Avg of pearson-coefficients for all the four emotions:  0.7752464365727507
+13 5 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8936408286508674
+pearson-coefficient for train_fear_:  0.7970730237837931
+pearson-coefficient for train_joy_:  0.7316309120868183
+pearson-coefficient for train_sadness_:  0.7295864646875363
+Avg of pearson-coefficients for all the four emotions:  0.7879828073022538
+13 5 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8353319746330633
+pearson-coefficient for train_fear_:  0.7371233017657546
+pearson-coefficient for train_joy_:  0.8387345914688725
+pearson-coefficient for train_sadness_:  0.6898827518344035
+Avg of pearson-coefficients for all the four emotions:  0.7752681549255235
+13 5 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7743615835439005
+pearson-coefficient for train_fear_:  0.8564717876311393
+pearson-coefficient for train_joy_:  0.8298093588426853
+pearson-coefficient for train_sadness_:  0.740776974581201
+Avg of pearson-coefficients for all the four emotions:  0.8003549261497315
+13 6 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8509859309072276
+pearson-coefficient for train_fear_:  0.815594724477075
+pearson-coefficient for train_joy_:  0.7662459843285974
+pearson-coefficient for train_sadness_:  0.2883707147156877
+Avg of pearson-coefficients for all the four emotions:  0.6802993386071469
+13 6 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8970142699192494
+pearson-coefficient for train_fear_:  0.8808951691858011
+pearson-coefficient for train_joy_:  0.7590312313156804
+pearson-coefficient for train_sadness_:  0.7714756214285483
+Avg of pearson-coefficients for all the four emotions:  0.8271040729623198
+13 6 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8516560113351813
+pearson-coefficient for train_fear_:  0.9000027966753356
+pearson-coefficient for train_joy_:  0.805601764733619
+pearson-coefficient for train_sadness_:  0.38792796212106084
+Avg of pearson-coefficients for all the four emotions:  0.7362971337162992
+13 6 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8033795316955166
+pearson-coefficient for train_fear_:  0.7771063514205208
+pearson-coefficient for train_joy_:  0.723139136930957
+pearson-coefficient for train_sadness_:  0.6969866275308964
+Avg of pearson-coefficients for all the four emotions:  0.7501529118944728
+13 6 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7698021176140117
+pearson-coefficient for train_fear_:  0.8768138345074575
+pearson-coefficient for train_joy_:  0.8920904654942391
+pearson-coefficient for train_sadness_:  0.6977093098166129
+Avg of pearson-coefficients for all the four emotions:  0.8091039318580804
+13 6 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7820685828966335
+pearson-coefficient for train_fear_:  0.7289938843365947
+pearson-coefficient for train_joy_:  0.8019926473419396
+pearson-coefficient for train_sadness_:  0.840498985898146
+Avg of pearson-coefficients for all the four emotions:  0.7883885251183285
+13 7 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6885062818937183
+pearson-coefficient for train_fear_:  0.8978010712211633
+pearson-coefficient for train_joy_:  0.8784269516240493
+pearson-coefficient for train_sadness_:  0.6298797858864978
+Avg of pearson-coefficients for all the four emotions:  0.7736535226563572
+13 7 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8644015242132524
+pearson-coefficient for train_fear_:  0.8886173220020782
+pearson-coefficient for train_joy_:  0.7658169721180211
+pearson-coefficient for train_sadness_:  0.7561659330804356
+Avg of pearson-coefficients for all the four emotions:  0.8187504378534469
+13 7 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7501053967824166
+pearson-coefficient for train_fear_:  0.7356686600543089
+pearson-coefficient for train_joy_:  0.7177590446577209
+pearson-coefficient for train_sadness_:  0.8168741348117959
+Avg of pearson-coefficients for all the four emotions:  0.7551018090765605
+13 7 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8832155600525589
+pearson-coefficient for train_fear_:  0.8959928499363292
+pearson-coefficient for train_joy_:  0.18010434566496902
+pearson-coefficient for train_sadness_:  0.7117041159139471
+Avg of pearson-coefficients for all the four emotions:  0.667754217891951
+13 7 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7603408820273981
+pearson-coefficient for train_fear_:  0.8618222728570246
+pearson-coefficient for train_joy_:  0.7542868217077677
+pearson-coefficient for train_sadness_:  0.8144548854259009
+Avg of pearson-coefficients for all the four emotions:  0.7977262155045228
+13 7 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7961802184268487
+pearson-coefficient for train_fear_:  0.7864662194972396
+pearson-coefficient for train_joy_:  0.7048941186855437
+pearson-coefficient for train_sadness_:  0.749478973350673
+Avg of pearson-coefficients for all the four emotions:  0.7592548824900762
+13 8 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8679498785853709
+pearson-coefficient for train_fear_:  0.8870906325301927
+pearson-coefficient for train_joy_:  0.7475148909340313
+pearson-coefficient for train_sadness_:  0.7641738687078027
+Avg of pearson-coefficients for all the four emotions:  0.8166823176893494
+13 8 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7668719831334546
+pearson-coefficient for train_fear_:  0.8786277888925789
+pearson-coefficient for train_joy_:  0.8264594053221342
+pearson-coefficient for train_sadness_:  0.8037084723694095
+Avg of pearson-coefficients for all the four emotions:  0.8189169124293942
+13 8 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8331323639536443
+pearson-coefficient for train_fear_:  0.8114196456905134
+pearson-coefficient for train_joy_:  0.7861602650866335
+pearson-coefficient for train_sadness_:  0.759867831348099
+Avg of pearson-coefficients for all the four emotions:  0.7976450265197226
+13 8 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7449873375404991
+pearson-coefficient for train_fear_:  0.7819019454577965
+pearson-coefficient for train_joy_:  0.6889281032296684
+pearson-coefficient for train_sadness_:  0.7067564658183974
+Avg of pearson-coefficients for all the four emotions:  0.7306434630115903
+13 8 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8378208240033377
+pearson-coefficient for train_fear_:  0.8723361713668565
+pearson-coefficient for train_joy_:  0.7056714026094065
+pearson-coefficient for train_sadness_:  0.7953361601100627
+Avg of pearson-coefficients for all the four emotions:  0.8027911395224159
+13 8 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.875535820952755
+pearson-coefficient for train_fear_:  0.8428718115496512
+pearson-coefficient for train_joy_:  0.7985483197782989
+pearson-coefficient for train_sadness_:  0.8157519947881515
+Avg of pearson-coefficients for all the four emotions:  0.8331769867672141
+13 9 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.831093300871379
+pearson-coefficient for train_fear_:  0.9013295570199851
+pearson-coefficient for train_joy_:  0.8287776076605392
+pearson-coefficient for train_sadness_:  0.7335940870323662
+Avg of pearson-coefficients for all the four emotions:  0.8236986381460674
+13 9 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7476841867441505
+pearson-coefficient for train_fear_:  0.8163672783495644
+pearson-coefficient for train_joy_:  0.8389770097953485
+pearson-coefficient for train_sadness_:  0.7679711761633474
+Avg of pearson-coefficients for all the four emotions:  0.7927499127631026
+13 9 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8681918487127347
+pearson-coefficient for train_fear_:  0.746195429207799
+pearson-coefficient for train_joy_:  0.8326259548080798
+pearson-coefficient for train_sadness_:  0.8115882831392311
+Avg of pearson-coefficients for all the four emotions:  0.8146503789669611
+13 9 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8135373030431284
+pearson-coefficient for train_fear_:  0.8595869673542925
+pearson-coefficient for train_joy_:  0.7611778750700027
+pearson-coefficient for train_sadness_:  0.674608994144239
+Avg of pearson-coefficients for all the four emotions:  0.7772277849029157
+13 9 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8865684466422444
+pearson-coefficient for train_fear_:  0.7667692959137987
+pearson-coefficient for train_joy_:  0.7878009476632898
+pearson-coefficient for train_sadness_:  0.7856838933955593
+Avg of pearson-coefficients for all the four emotions:  0.8067056459037231
+13 9 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.83594844885148
+pearson-coefficient for train_fear_:  0.8418415787970079
+pearson-coefficient for train_joy_:  0.7812394220301863
+pearson-coefficient for train_sadness_:  0.7324839834501057
+Avg of pearson-coefficients for all the four emotions:  0.7978783582821949
+14 4 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8273391446346678
+pearson-coefficient for train_fear_:  0.8530777822788347
+pearson-coefficient for train_joy_:  0.751866061007969
+pearson-coefficient for train_sadness_:  0.46553973484517513
+Avg of pearson-coefficients for all the four emotions:  0.7244556806916617
+14 4 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7687364447184328
+pearson-coefficient for train_fear_:  0.8776835028878199
+pearson-coefficient for train_joy_:  0.5624548359454967
+pearson-coefficient for train_sadness_:  0.6960976838288258
+Avg of pearson-coefficients for all the four emotions:  0.7262431168451438
+14 4 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7981644150822076
+pearson-coefficient for train_fear_:  0.893574518084544
+pearson-coefficient for train_joy_:  0.7833211738101071
+pearson-coefficient for train_sadness_:  0.8167761967982581
+Avg of pearson-coefficients for all the four emotions:  0.8229590759437792
+14 4 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.894392105257432
+pearson-coefficient for train_fear_:  0.8121572492886426
+pearson-coefficient for train_joy_:  0.7961918355901986
+pearson-coefficient for train_sadness_:  0.6635169818480345
+Avg of pearson-coefficients for all the four emotions:  0.7915645429960769
+14 4 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8856381418186325
+pearson-coefficient for train_fear_:  0.8202552654396728
+pearson-coefficient for train_joy_:  0.8102000266784651
+pearson-coefficient for train_sadness_:  0.7137846108461573
+Avg of pearson-coefficients for all the four emotions:  0.807469511195732
+14 4 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7584361275434979
+pearson-coefficient for train_fear_:  0.8756197899449195
+pearson-coefficient for train_joy_:  0.8306822694156497
+pearson-coefficient for train_sadness_:  0.7216951575499853
+Avg of pearson-coefficients for all the four emotions:  0.796608336113513
+14 5 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8335305841512088
+pearson-coefficient for train_fear_:  0.8915068254855985
+pearson-coefficient for train_joy_:  0.8718038758572323
+pearson-coefficient for train_sadness_:  0.8147798881669086
+Avg of pearson-coefficients for all the four emotions:  0.852905293415237
+14 5 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.9073745663862547
+pearson-coefficient for train_fear_:  0.811390122528652
+pearson-coefficient for train_joy_:  0.601790563020688
+pearson-coefficient for train_sadness_:  0.8014628323122609
+Avg of pearson-coefficients for all the four emotions:  0.7805045210619639
+14 5 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.9002574479364243
+pearson-coefficient for train_fear_:  0.8898608895882792
+pearson-coefficient for train_joy_:  0.8938774116862872
+pearson-coefficient for train_sadness_:  0.7403227042269241
+Avg of pearson-coefficients for all the four emotions:  0.8560796133594787
+14 5 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7533333394544279
+pearson-coefficient for train_fear_:  0.6997824887469719
+pearson-coefficient for train_joy_:  0.7104467304346866
+pearson-coefficient for train_sadness_:  0.8207366396045462
+Avg of pearson-coefficients for all the four emotions:  0.7460747995601582
+14 5 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8916071113181353
+pearson-coefficient for train_fear_:  0.843463729709645
+pearson-coefficient for train_joy_:  0.7470036311527092
+pearson-coefficient for train_sadness_:  0.7667031665316015
+Avg of pearson-coefficients for all the four emotions:  0.8121944096780227
+14 5 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8178134013871036
+pearson-coefficient for train_fear_:  0.7289928403408998
+pearson-coefficient for train_joy_:  0.702987875766723
+pearson-coefficient for train_sadness_:  0.8240003256784505
+Avg of pearson-coefficients for all the four emotions:  0.7684486107932942
+14 6 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.858152054817404
+pearson-coefficient for train_fear_:  0.9059907938480203
+pearson-coefficient for train_joy_:  0.8019127827103262
+pearson-coefficient for train_sadness_:  0.8126761866225057
+Avg of pearson-coefficients for all the four emotions:  0.844682954499564
+14 6 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7598505176429308
+pearson-coefficient for train_fear_:  0.7946472423550399
+pearson-coefficient for train_joy_:  0.6701340689210611
+pearson-coefficient for train_sadness_:  0.8406315432856105
+Avg of pearson-coefficients for all the four emotions:  0.7663158430511605
+14 6 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8236458099391166
+pearson-coefficient for train_fear_:  0.8710786912786511
+pearson-coefficient for train_joy_:  0.7424400687687261
+pearson-coefficient for train_sadness_:  0.8182948144209848
+Avg of pearson-coefficients for all the four emotions:  0.8138648461018696
+14 6 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7864145972896989
+pearson-coefficient for train_fear_:  0.8656364568829811
+pearson-coefficient for train_joy_:  0.8542650659330452
+pearson-coefficient for train_sadness_:  0.8011847177189784
+Avg of pearson-coefficients for all the four emotions:  0.8268752094561758
+14 6 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8208362882878715
+pearson-coefficient for train_fear_:  0.8352847600096366
+pearson-coefficient for train_joy_:  0.8580506123270508
+pearson-coefficient for train_sadness_:  0.720785970551364
+Avg of pearson-coefficients for all the four emotions:  0.8087394077939807
+14 6 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7767343694384187
+pearson-coefficient for train_fear_:  0.9128472897394365
+pearson-coefficient for train_joy_:  0.7961446428875997
+pearson-coefficient for train_sadness_:  0.7274491416635359
+Avg of pearson-coefficients for all the four emotions:  0.8032938609322477
+14 7 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8134553510683068
+pearson-coefficient for train_fear_:  0.777295177528259
+pearson-coefficient for train_joy_:  0.8668341298893542
+pearson-coefficient for train_sadness_:  0.8465030018273003
+Avg of pearson-coefficients for all the four emotions:  0.8260219150783051
+14 7 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8020667819278928
+pearson-coefficient for train_fear_:  0.8403592820442439
+pearson-coefficient for train_joy_:  0.885211540373421
+pearson-coefficient for train_sadness_:  0.7780957400790417
+Avg of pearson-coefficients for all the four emotions:  0.8264333361061499
+14 7 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8826359338128458
+pearson-coefficient for train_fear_:  0.8946792405550626
+pearson-coefficient for train_joy_:  0.7226946144221417
+pearson-coefficient for train_sadness_:  0.6954966505605529
+Avg of pearson-coefficients for all the four emotions:  0.7988766098376507
+14 7 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7061826706977659
+pearson-coefficient for train_fear_:  0.7641224721777219
+pearson-coefficient for train_joy_:  0.8345923224544279
+pearson-coefficient for train_sadness_:  0.7548465575522292
+Avg of pearson-coefficients for all the four emotions:  0.7649360057205361
+14 7 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7662740437180678
+pearson-coefficient for train_fear_:  0.7664401470200943
+pearson-coefficient for train_joy_:  0.8456260493582247
+pearson-coefficient for train_sadness_:  0.7500453093403806
+Avg of pearson-coefficients for all the four emotions:  0.7820963873591918
+14 7 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7105758315977344
+pearson-coefficient for train_fear_:  0.6494454764236391
+pearson-coefficient for train_joy_:  0.8418487923393839
+pearson-coefficient for train_sadness_:  0.6395771456101214
+Avg of pearson-coefficients for all the four emotions:  0.7103618114927197
+14 8 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.762096725473148
+pearson-coefficient for train_fear_:  0.7634074043778358
+pearson-coefficient for train_joy_:  0.771036832369093
+pearson-coefficient for train_sadness_:  0.6941242397745139
+Avg of pearson-coefficients for all the four emotions:  0.7476663004986478
+14 8 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7629396014637875
+pearson-coefficient for train_fear_:  0.8356151811155414
+pearson-coefficient for train_joy_:  0.8228430333259915
+pearson-coefficient for train_sadness_:  0.37345250045142325
+Avg of pearson-coefficients for all the four emotions:  0.6987125790891859
+14 8 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7305433751506082
+pearson-coefficient for train_fear_:  0.7791130031497259
+pearson-coefficient for train_joy_:  0.8081695645280061
+pearson-coefficient for train_sadness_:  0.8416487418641775
+Avg of pearson-coefficients for all the four emotions:  0.7898686711731294
+14 8 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7561236126414028
+pearson-coefficient for train_fear_:  0.7179070104447696
+pearson-coefficient for train_joy_:  0.6661548590241639
+pearson-coefficient for train_sadness_:  0.7982790902717276
+Avg of pearson-coefficients for all the four emotions:  0.734616143095516
+14 8 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8011700427443919
+pearson-coefficient for train_fear_:  0.8150658914897199
+pearson-coefficient for train_joy_:  0.856809116162068
+pearson-coefficient for train_sadness_:  0.6713829022103898
+Avg of pearson-coefficients for all the four emotions:  0.7861069881516424
+14 8 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8453077449453272
+pearson-coefficient for train_fear_:  0.8587972891053801
+pearson-coefficient for train_joy_:  0.8075315435362596
+pearson-coefficient for train_sadness_:  0.43434069756269394
+Avg of pearson-coefficients for all the four emotions:  0.7364943187874152
+14 9 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8105523544277409
+pearson-coefficient for train_fear_:  0.8691039730252557
+pearson-coefficient for train_joy_:  0.8285457711652873
+pearson-coefficient for train_sadness_:  0.7608668287788545
+Avg of pearson-coefficients for all the four emotions:  0.8172672318492846
+14 9 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8511046518521398
+pearson-coefficient for train_fear_:  0.8731532248935143
+pearson-coefficient for train_joy_:  0.5028188869507773
+pearson-coefficient for train_sadness_:  0.8114330128035624
+Avg of pearson-coefficients for all the four emotions:  0.7596274441249984
+14 9 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8894204051524001
+pearson-coefficient for train_fear_:  0.863580540700505
+pearson-coefficient for train_joy_:  0.8200813730021046
+pearson-coefficient for train_sadness_:  0.7769670750197684
+Avg of pearson-coefficients for all the four emotions:  0.8375123484686944
+14 9 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8016887268463475
+pearson-coefficient for train_fear_:  0.8238237049840307
+pearson-coefficient for train_joy_:  0.8959082018095584
+pearson-coefficient for train_sadness_:  0.8693541210835402
+Avg of pearson-coefficients for all the four emotions:  0.8476936886808691
+14 9 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6811249053210195
+pearson-coefficient for train_fear_:  0.8086497223370647
+pearson-coefficient for train_joy_:  0.883297286655129
+pearson-coefficient for train_sadness_:  0.73277002036112
+Avg of pearson-coefficients for all the four emotions:  0.7764604836685833
+14 9 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7675457515814381
+pearson-coefficient for train_fear_:  0.747531761685663
+pearson-coefficient for train_joy_:  0.8002475761967096
+pearson-coefficient for train_sadness_:  0.8432782755733607
+Avg of pearson-coefficients for all the four emotions:  0.7896508412592929
+15 4 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6564704025790838
+pearson-coefficient for train_fear_:  0.8832228226619953
+pearson-coefficient for train_joy_:  0.9102067106950885
+pearson-coefficient for train_sadness_:  0.7899282263142833
+Avg of pearson-coefficients for all the four emotions:  0.8099570405626126
+15 4 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8036785499881616
+pearson-coefficient for train_fear_:  0.905248495660652
+pearson-coefficient for train_joy_:  0.8160622685157326
+pearson-coefficient for train_sadness_:  0.8361138481732959
+Avg of pearson-coefficients for all the four emotions:  0.8402757905844607
+15 4 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8895584960358083
+pearson-coefficient for train_fear_:  0.8070894234519638
+pearson-coefficient for train_joy_:  0.7630953076216757
+pearson-coefficient for train_sadness_:  0.7535296951500805
+Avg of pearson-coefficients for all the four emotions:  0.803318230564882
+15 4 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6624313644090929
+pearson-coefficient for train_fear_:  0.8539321772410381
+pearson-coefficient for train_joy_:  0.6188499780495198
+pearson-coefficient for train_sadness_:  0.6129235037658647
+Avg of pearson-coefficients for all the four emotions:  0.6870342558663789
+15 4 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8577306720380671
+pearson-coefficient for train_fear_:  0.7786303658792487
+pearson-coefficient for train_joy_:  0.7812638572183397
+pearson-coefficient for train_sadness_:  0.7899589049780951
+Avg of pearson-coefficients for all the four emotions:  0.8018959500284376
+15 4 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.9077737314576991
+pearson-coefficient for train_fear_:  0.8985266255522253
+pearson-coefficient for train_joy_:  0.5761121446067614
+pearson-coefficient for train_sadness_:  0.8392799116273637
+Avg of pearson-coefficients for all the four emotions:  0.8054231033110124
+15 5 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8906980268380811
+pearson-coefficient for train_fear_:  0.8270594038941268
+pearson-coefficient for train_joy_:  0.8833356318383746
+pearson-coefficient for train_sadness_:  0.688874216684569
+Avg of pearson-coefficients for all the four emotions:  0.8224918198137879
+15 5 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8145088826537742
+pearson-coefficient for train_fear_:  0.8869504163894649
+pearson-coefficient for train_joy_:  0.6044375120882587
+pearson-coefficient for train_sadness_:  0.8421080045713046
+Avg of pearson-coefficients for all the four emotions:  0.7870012039257006
+15 5 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8540086817270935
+pearson-coefficient for train_fear_:  0.7639484344917031
+pearson-coefficient for train_joy_:  0.817885691745617
+pearson-coefficient for train_sadness_:  0.7135212049683246
+Avg of pearson-coefficients for all the four emotions:  0.7873410032331846
+15 5 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8260420111328808
+pearson-coefficient for train_fear_:  0.8206745778004979
+pearson-coefficient for train_joy_:  0.8186094968803459
+pearson-coefficient for train_sadness_:  0.7658853314530372
+Avg of pearson-coefficients for all the four emotions:  0.8078028543166904
+15 5 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7087362299955546
+pearson-coefficient for train_fear_:  0.6971923219789214
+pearson-coefficient for train_joy_:  0.6977328837270251
+pearson-coefficient for train_sadness_:  0.7999341998255233
+Avg of pearson-coefficients for all the four emotions:  0.7258989088817561
+15 5 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8487266629350553
+pearson-coefficient for train_fear_:  0.9086357731444199
+pearson-coefficient for train_joy_:  0.6989851538178405
+pearson-coefficient for train_sadness_:  0.7887273094210209
+Avg of pearson-coefficients for all the four emotions:  0.8112687248295842
+15 6 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.9140243619821555
+pearson-coefficient for train_fear_:  0.8603440022305257
+pearson-coefficient for train_joy_:  0.7777654208063641
+pearson-coefficient for train_sadness_:  0.7455609922929882
+Avg of pearson-coefficients for all the four emotions:  0.8244236943280083
+15 6 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8708156152890396
+pearson-coefficient for train_fear_:  0.829008665066707
+pearson-coefficient for train_joy_:  0.858829960654636
+pearson-coefficient for train_sadness_:  0.7700459990984357
+Avg of pearson-coefficients for all the four emotions:  0.8321750600272045
+15 6 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6946264689468145
+pearson-coefficient for train_fear_:  0.8526800726972901
+pearson-coefficient for train_joy_:  0.7261358767611336
+pearson-coefficient for train_sadness_:  0.8013386202184872
+Avg of pearson-coefficients for all the four emotions:  0.7686952596559313
+15 6 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8434785103887403
+pearson-coefficient for train_fear_:  0.7103583804333294
+pearson-coefficient for train_joy_:  0.634603183577239
+pearson-coefficient for train_sadness_:  0.06041353942408932
+Avg of pearson-coefficients for all the four emotions:  0.5622134034558496
+15 6 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8456605909580512
+pearson-coefficient for train_fear_:  0.8567902233054604
+pearson-coefficient for train_joy_:  0.7920851558893963
+pearson-coefficient for train_sadness_:  0.7581336521581173
+Avg of pearson-coefficients for all the four emotions:  0.8131674055777562
+15 6 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7689317748014198
+pearson-coefficient for train_fear_:  0.8671911360115336
+pearson-coefficient for train_joy_:  0.8652500552267496
+pearson-coefficient for train_sadness_:  0.7271777311152833
+Avg of pearson-coefficients for all the four emotions:  0.8071376742887465
+15 7 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8572217141033449
+pearson-coefficient for train_fear_:  0.8619834018685704
+pearson-coefficient for train_joy_:  0.7775991093714765
+pearson-coefficient for train_sadness_:  0.7773548409256706
+Avg of pearson-coefficients for all the four emotions:  0.8185397665672657
+15 7 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.817544303533027
+pearson-coefficient for train_fear_:  0.858574342907121
+pearson-coefficient for train_joy_:  0.8822660395497772
+pearson-coefficient for train_sadness_:  0.6639712683656288
+Avg of pearson-coefficients for all the four emotions:  0.8055889885888885
+15 7 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7136353406868037
+pearson-coefficient for train_fear_:  0.7972649319411185
+pearson-coefficient for train_joy_:  0.8534256041345495
+pearson-coefficient for train_sadness_:  0.803499955119635
+Avg of pearson-coefficients for all the four emotions:  0.7919564579705266
+15 7 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8336382887088997
+pearson-coefficient for train_fear_:  0.8018193396377896
+pearson-coefficient for train_joy_:  0.7224797655828256
+pearson-coefficient for train_sadness_:  0.854883044709305
+Avg of pearson-coefficients for all the four emotions:  0.803205109659705
+15 7 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8933508309173428
+pearson-coefficient for train_fear_:  0.8418303337007084
+pearson-coefficient for train_joy_:  0.7038588550326119
+pearson-coefficient for train_sadness_:  0.7292149379999291
+Avg of pearson-coefficients for all the four emotions:  0.792063739412648
+15 7 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7991715075801861
+pearson-coefficient for train_fear_:  0.8651145435475897
+pearson-coefficient for train_joy_:  0.754053372614309
+pearson-coefficient for train_sadness_:  0.8754207983045227
+Avg of pearson-coefficients for all the four emotions:  0.8234400555116518
+15 8 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8748890685702898
+pearson-coefficient for train_fear_:  0.76367690824666
+pearson-coefficient for train_joy_:  0.8468623435641051
+pearson-coefficient for train_sadness_:  0.5683157343248596
+Avg of pearson-coefficients for all the four emotions:  0.7634360136764786
+15 8 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8237270126264483
+pearson-coefficient for train_fear_:  0.8791774409020088
+pearson-coefficient for train_joy_:  0.7868971144009387
+pearson-coefficient for train_sadness_:  0.7852935368445592
+Avg of pearson-coefficients for all the four emotions:  0.8187737761934888
+15 8 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8354240713395215
+pearson-coefficient for train_fear_:  0.8326914014408406
+pearson-coefficient for train_joy_:  0.7668963201639202
+pearson-coefficient for train_sadness_:  0.5160524117576558
+Avg of pearson-coefficients for all the four emotions:  0.7377660511754845
+15 8 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7661348798948076
+pearson-coefficient for train_fear_:  0.873896862330339
+pearson-coefficient for train_joy_:  0.619414875805704
+pearson-coefficient for train_sadness_:  0.6646108927736539
+Avg of pearson-coefficients for all the four emotions:  0.7310143777011261
+15 8 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8609221203937312
+pearson-coefficient for train_fear_:  0.8638682989023632
+pearson-coefficient for train_joy_:  0.7757744247597453
+pearson-coefficient for train_sadness_:  0.7852320373076378
+Avg of pearson-coefficients for all the four emotions:  0.8214492203408694
+15 8 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.697577053625996
+pearson-coefficient for train_fear_:  0.9233963497983386
+pearson-coefficient for train_joy_:  0.728921286968206
+pearson-coefficient for train_sadness_:  0.7155710269223078
+Avg of pearson-coefficients for all the four emotions:  0.766366429328712
+15 9 2 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.8835819309231563
+pearson-coefficient for train_fear_:  0.7223437575858933
+pearson-coefficient for train_joy_:  0.6874043843765703
+pearson-coefficient for train_sadness_:  0.7259346816823846
+Avg of pearson-coefficients for all the four emotions:  0.7548161886420011
+15 9 3 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.7645819836691162
+pearson-coefficient for train_fear_:  0.7684549651455382
+pearson-coefficient for train_joy_:  0.7076339100823926
+pearson-coefficient for train_sadness_:  0.4465699231248632
+Avg of pearson-coefficients for all the four emotions:  0.6718101955054776
+15 9 4 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6505157965087632
+pearson-coefficient for train_fear_:  0.8517026418589456
+pearson-coefficient for train_joy_:  0.731501317372944
+pearson-coefficient for train_sadness_:  0.8395588599195365
+Avg of pearson-coefficients for all the four emotions:  0.7683196539150474
+15 9 5 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.9199884452106041
+pearson-coefficient for train_fear_:  0.8935428594180764
+pearson-coefficient for train_joy_:  0.4917589147742603
+pearson-coefficient for train_sadness_:  0.5898497786426329
+Avg of pearson-coefficients for all the four emotions:  0.7237849995113934
+15 9 6 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.9265884474476979
+pearson-coefficient for train_fear_:  0.9235126905441967
+pearson-coefficient for train_joy_:  0.887965752893615
+pearson-coefficient for train_sadness_:  0.7908272805330545
+Avg of pearson-coefficients for all the four emotions:  0.882223542854641
+15 9 7 ---------------------------------------------
+pearson-coefficient for train_anger_:  0.6801470232607394
+pearson-coefficient for train_fear_:  0.8336089413050445
+pearson-coefficient for train_joy_:  0.42092243055719714
+pearson-coefficient for train_sadness_:  0.5825054791501453
+Avg of pearson-coefficients for all the four emotions:  0.6292959685682815

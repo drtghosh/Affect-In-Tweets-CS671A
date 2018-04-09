@@ -1,0 +1,593 @@
+Loading model of DM para2vec:
+12
+[1701, 3953, 5569, 7102, 7490, 7879, 8169, 8566, 26505, 44428, 62470, 80382]
+Creating training arrays for train_anger_
+Creating dev arrays for dev_anger_
+Training a Neural Network with  9 6 2
+Loading model of DM para2vec:
+12
+[1701, 3953, 5569, 7102, 7490, 7879, 8169, 8566, 26505, 44428, 62470, 80382]
+Creating training arrays for train_anger_
+Creating dev arrays for dev_anger_
+Training a Neural Network with  9 6 2
+pearson-coefficient for train_anger_:  0.01413201017512621
+Training a Neural Network with  9 6 3
+pearson-coefficient for train_anger_:  0.9055463850612038
+Training a Neural Network with  9 6 4
+pearson-coefficient for train_anger_:  0.6563429880465222
+Training a Neural Network with  9 6 5
+pearson-coefficient for train_anger_:  0.8846661179008775
+Training a Neural Network with  9 7 2
+pearson-coefficient for train_anger_:  0.8525356473485021
+Training a Neural Network with  9 7 3
+pearson-coefficient for train_anger_:  0.7907785059059308
+Training a Neural Network with  9 7 4
+pearson-coefficient for train_anger_:  0.873884960142117
+Training a Neural Network with  9 7 5
+pearson-coefficient for train_anger_:  0.9033519554907193
+Training a Neural Network with  9 8 2
+pearson-coefficient for train_anger_:  0.08863379469725163
+Training a Neural Network with  9 8 3
+pearson-coefficient for train_anger_:  -0.029242204115908735
+Training a Neural Network with  9 8 4
+pearson-coefficient for train_anger_:  0.7473235791400872
+Training a Neural Network with  9 8 5
+pearson-coefficient for train_anger_:  0.875488452933108
+Training a Neural Network with  10 6 2
+pearson-coefficient for train_anger_:  -0.12477437411344952
+Training a Neural Network with  10 6 3
+pearson-coefficient for train_anger_:  0.7857591837667112
+Training a Neural Network with  10 6 4
+pearson-coefficient for train_anger_:  0.4176589597774929
+Training a Neural Network with  10 6 5
+pearson-coefficient for train_anger_:  0.1640091669168235
+Training a Neural Network with  10 7 2
+pearson-coefficient for train_anger_:  0.913625022285886
+Training a Neural Network with  10 7 3
+pearson-coefficient for train_anger_:  0.8676633215028621
+Training a Neural Network with  10 7 4
+pearson-coefficient for train_anger_:  -0.8444448292266453
+Training a Neural Network with  10 7 5
+pearson-coefficient for train_anger_:  0.8826483336588706
+Training a Neural Network with  10 8 2
+pearson-coefficient for train_anger_:  0.039120684020483125
+Training a Neural Network with  10 8 3
+pearson-coefficient for train_anger_:  0.9136250222860626
+Training a Neural Network with  10 8 4
+pearson-coefficient for train_anger_:  -0.8507537837598806
+Training a Neural Network with  10 8 5
+pearson-coefficient for train_anger_:  0.25476863939414623
+Training a Neural Network with  11 6 2
+pearson-coefficient for train_anger_:  0.9098669642247684
+Training a Neural Network with  11 6 3
+pearson-coefficient for train_anger_:  0.8430501822356559
+Training a Neural Network with  11 6 4
+pearson-coefficient for train_anger_:  -0.7549864465221408
+Training a Neural Network with  11 6 5
+pearson-coefficient for train_anger_:  0.9004209576433632
+Training a Neural Network with  11 7 2
+pearson-coefficient for train_anger_:  -0.6898655783818051
+Training a Neural Network with  11 7 3
+pearson-coefficient for train_anger_:  -0.1619310314422241
+Training a Neural Network with  11 7 4
+pearson-coefficient for train_anger_:  0.4291753483885607
+Training a Neural Network with  11 7 5
+pearson-coefficient for train_anger_:  0.8739514047956726
+Training a Neural Network with  11 8 2
+pearson-coefficient for train_anger_:  0.7872172395418422
+Training a Neural Network with  11 8 3
+pearson-coefficient for train_anger_:  0.2075913517172861
+Training a Neural Network with  11 8 4
+pearson-coefficient for train_anger_:  -0.7646969222324914
+Training a Neural Network with  11 8 5
+pearson-coefficient for train_anger_:  -0.49273984057745335
+Training a Neural Network with  12 6 2
+pearson-coefficient for train_anger_:  -0.48741977157426997
+Training a Neural Network with  12 6 3
+pearson-coefficient for train_anger_:  0.7307569804598512
+Training a Neural Network with  12 6 4
+pearson-coefficient for train_anger_:  0.8527196148413819
+Training a Neural Network with  12 6 5
+pearson-coefficient for train_anger_:  -0.0785846520058765
+Training a Neural Network with  12 7 2
+pearson-coefficient for train_anger_:  0.12183833395187643
+Training a Neural Network with  12 7 3
+pearson-coefficient for train_anger_:  0.8773039280513497
+Training a Neural Network with  12 7 4
+pearson-coefficient for train_anger_:  0.4589602973579983
+Training a Neural Network with  12 7 5
+pearson-coefficient for train_anger_:  0.8717724255836296
+Training a Neural Network with  12 8 2
+pearson-coefficient for train_anger_:  -0.10704713655112233
+Training a Neural Network with  12 8 3
+pearson-coefficient for train_anger_:  0.8936642603660037
+Training a Neural Network with  12 8 4
+pearson-coefficient for train_anger_:  0.48996766999686037
+Training a Neural Network with  12 8 5
+pearson-coefficient for train_anger_:  0.8290222685169468
+Training a Neural Network with  13 6 2
+pearson-coefficient for train_anger_:  -0.3407484087906203
+Training a Neural Network with  13 6 3
+pearson-coefficient for train_anger_:  0.9051872163649008
+Training a Neural Network with  13 6 4
+pearson-coefficient for train_anger_:  0.5499999951258003
+Training a Neural Network with  13 6 5
+pearson-coefficient for train_anger_:  0.8697477363813934
+Training a Neural Network with  13 7 2
+pearson-coefficient for train_anger_:  0.8495936854405871
+Training a Neural Network with  13 7 3
+pearson-coefficient for train_anger_:  0.910620795927223
+Training a Neural Network with  13 7 4
+pearson-coefficient for train_anger_:  -0.5365609075328036
+Training a Neural Network with  13 7 5
+pearson-coefficient for train_anger_:  0.8698740383551149
+Training a Neural Network with  13 8 2
+pearson-coefficient for train_anger_:  -7.923208519475385e-16
+Training a Neural Network with  13 8 3
+pearson-coefficient for train_anger_:  0.7981068630151616
+Training a Neural Network with  13 8 4
+pearson-coefficient for train_anger_:  -0.6920455801995573
+Training a Neural Network with  13 8 5
+pearson-coefficient for train_anger_:  0.8796750671783451
+Training a Neural Network with  14 6 2
+pearson-coefficient for train_anger_:  -0.8935186766425197
+Training a Neural Network with  14 6 3
+pearson-coefficient for train_anger_:  -0.13781545634215944
+Training a Neural Network with  14 6 4
+pearson-coefficient for train_anger_:  0.13839343954605268
+Training a Neural Network with  14 6 5
+pearson-coefficient for train_anger_:  0.8948210652277108
+Training a Neural Network with  14 7 2
+pearson-coefficient for train_anger_:  7.549085340514833e-15
+Training a Neural Network with  14 7 3
+pearson-coefficient for train_anger_:  0.9120624575271281
+Training a Neural Network with  14 7 4
+pearson-coefficient for train_anger_:  0.6924630056956909
+Training a Neural Network with  14 7 5
+pearson-coefficient for train_anger_:  0.887856857381379
+Training a Neural Network with  14 8 2
+pearson-coefficient for train_anger_:  -0.9110825081321873
+Training a Neural Network with  14 8 3
+pearson-coefficient for train_anger_:  0.7949969902250276
+Training a Neural Network with  14 8 4
+pearson-coefficient for train_anger_:  -0.5704118319333791
+Training a Neural Network with  14 8 5
+pearson-coefficient for train_anger_:  0.4305377738285334
+Creating training arrays for train_fear_
+Creating dev arrays for dev_fear_
+Training a Neural Network with  9 6 2
+pearson-coefficient for train_fear_:  0.03340556570376951
+Training a Neural Network with  9 6 3
+pearson-coefficient for train_fear_:  0.9269484171733212
+Training a Neural Network with  9 6 4
+pearson-coefficient for train_fear_:  0.7721764866077689
+Training a Neural Network with  9 6 5
+pearson-coefficient for train_fear_:  0.9119753490226332
+Training a Neural Network with  9 7 2
+pearson-coefficient for train_fear_:  0.8818970257512525
+Training a Neural Network with  9 7 3
+pearson-coefficient for train_fear_:  0.8453769407705451
+Training a Neural Network with  9 7 4
+pearson-coefficient for train_fear_:  0.9018784337124431
+Training a Neural Network with  9 7 5
+pearson-coefficient for train_fear_:  0.9176042848920717
+Training a Neural Network with  9 8 2
+pearson-coefficient for train_fear_:  0.1742493170966488
+Training a Neural Network with  9 8 3
+pearson-coefficient for train_fear_:  0.02519792779335319
+Training a Neural Network with  9 8 4
+pearson-coefficient for train_fear_:  0.8069960058135319
+Training a Neural Network with  9 8 5
+pearson-coefficient for train_fear_:  0.8997331298637978
+Training a Neural Network with  10 6 2
+pearson-coefficient for train_fear_:  -0.07136053323219294
+Training a Neural Network with  10 6 3
+pearson-coefficient for train_fear_:  0.8499578177804038
+Training a Neural Network with  10 6 4
+pearson-coefficient for train_fear_:  0.43989271028785965
+Training a Neural Network with  10 6 5
+pearson-coefficient for train_fear_:  0.05637231701857835
+Training a Neural Network with  10 7 2
+pearson-coefficient for train_fear_:  0.931268971804534
+Training a Neural Network with  10 7 3
+pearson-coefficient for train_fear_:  0.8817902081991345
+Training a Neural Network with  10 7 4
+pearson-coefficient for train_fear_:  -0.8703487789085507
+Training a Neural Network with  10 7 5
+pearson-coefficient for train_fear_:  0.9122690979612439
+Training a Neural Network with  10 8 2
+pearson-coefficient for train_fear_:  0.044838776463263404
+Training a Neural Network with  10 8 3
+pearson-coefficient for train_fear_:  0.9324424055289978
+Training a Neural Network with  10 8 4
+pearson-coefficient for train_fear_:  -0.8618587615711998
+Training a Neural Network with  10 8 5
+pearson-coefficient for train_fear_:  0.258182941384354
+Training a Neural Network with  11 6 2
+pearson-coefficient for train_fear_:  0.9253456410878665
+Training a Neural Network with  11 6 3
+pearson-coefficient for train_fear_:  0.8750760923869794
+Training a Neural Network with  11 6 4
+pearson-coefficient for train_fear_:  -0.777285893378033
+Training a Neural Network with  11 6 5
+pearson-coefficient for train_fear_:  0.9202005356853796
+Training a Neural Network with  11 7 2
+pearson-coefficient for train_fear_:  -0.7135730814318947
+Training a Neural Network with  11 7 3
+pearson-coefficient for train_fear_:  -0.18047702268328666
+Training a Neural Network with  11 7 4
+pearson-coefficient for train_fear_:  -0.02374758025522331
+Training a Neural Network with  11 7 5
+pearson-coefficient for train_fear_:  0.9081740139560085
+Training a Neural Network with  11 8 2
+pearson-coefficient for train_fear_:  0.8808813155464268
+Training a Neural Network with  11 8 3
+pearson-coefficient for train_fear_:  0.18201035174026137
+Training a Neural Network with  11 8 4
+pearson-coefficient for train_fear_:  -0.7920722358690797
+Training a Neural Network with  11 8 5
+pearson-coefficient for train_fear_:  -0.4015083936156742
+Training a Neural Network with  12 6 2
+pearson-coefficient for train_fear_:  -0.5541686830297852
+Training a Neural Network with  12 6 3
+pearson-coefficient for train_fear_:  0.7896105435805645
+Training a Neural Network with  12 6 4
+pearson-coefficient for train_fear_:  0.895035934820556
+Training a Neural Network with  12 6 5
+pearson-coefficient for train_fear_:  -0.15008419193157885
+Training a Neural Network with  12 7 2
+pearson-coefficient for train_fear_:  0.15482471810245055
+Training a Neural Network with  12 7 3
+pearson-coefficient for train_fear_:  0.8913471039760413
+Training a Neural Network with  12 7 4
+pearson-coefficient for train_fear_:  0.31370886811573356
+Training a Neural Network with  12 7 5
+pearson-coefficient for train_fear_:  0.9030509992468264
+Training a Neural Network with  12 8 2
+pearson-coefficient for train_fear_:  -0.01858124098234514
+Training a Neural Network with  12 8 3
+pearson-coefficient for train_fear_:  0.9232473645768704
+Training a Neural Network with  12 8 4
+pearson-coefficient for train_fear_:  0.579826006670958
+Training a Neural Network with  12 8 5
+pearson-coefficient for train_fear_:  0.8600866522808759
+Training a Neural Network with  13 6 2
+pearson-coefficient for train_fear_:  -0.3341057196268748
+Training a Neural Network with  13 6 3
+pearson-coefficient for train_fear_:  0.9298251055522422
+Training a Neural Network with  13 6 4
+pearson-coefficient for train_fear_:  0.6383622599263649
+Training a Neural Network with  13 6 5
+pearson-coefficient for train_fear_:  0.8975051089964424
+Training a Neural Network with  13 7 2
+pearson-coefficient for train_fear_:  0.9147265692397738
+Training a Neural Network with  13 7 3
+pearson-coefficient for train_fear_:  0.932411736994687
+Training a Neural Network with  13 7 4
+pearson-coefficient for train_fear_:  -0.5784591119681488
+Training a Neural Network with  13 7 5
+pearson-coefficient for train_fear_:  0.8972594943395688
+Training a Neural Network with  13 8 2
+pearson-coefficient for train_fear_:  0.05094296699559439
+Training a Neural Network with  13 8 3
+pearson-coefficient for train_fear_:  0.8554727241432185
+Training a Neural Network with  13 8 4
+pearson-coefficient for train_fear_:  -0.7485215105147123
+Training a Neural Network with  13 8 5
+pearson-coefficient for train_fear_:  0.9070841931717188
+Training a Neural Network with  14 6 2
+pearson-coefficient for train_fear_:  -0.9273968838372085
+Training a Neural Network with  14 6 3
+pearson-coefficient for train_fear_:  -0.1220837520947827
+Training a Neural Network with  14 6 4
+pearson-coefficient for train_fear_:  0.19504427824630757
+Training a Neural Network with  14 6 5
+pearson-coefficient for train_fear_:  0.9210463706415173
+Training a Neural Network with  14 7 2
+pearson-coefficient for train_fear_:  0.05922227133282663
+Training a Neural Network with  14 7 3
+pearson-coefficient for train_fear_:  0.9306782005595019
+Training a Neural Network with  14 7 4
+pearson-coefficient for train_fear_:  0.774029908099949
+Training a Neural Network with  14 7 5
+pearson-coefficient for train_fear_:  0.9095892798270215
+Training a Neural Network with  14 8 2
+pearson-coefficient for train_fear_:  -0.930984904350036
+Training a Neural Network with  14 8 3
+pearson-coefficient for train_fear_:  0.8296706493420218
+Training a Neural Network with  14 8 4
+pearson-coefficient for train_fear_:  -0.6211480261900421
+Training a Neural Network with  14 8 5
+pearson-coefficient for train_fear_:  0.4023276499940987
+Creating training arrays for train_joy_
+Creating dev arrays for dev_joy_
+Training a Neural Network with  9 6 2
+pearson-coefficient for train_joy_:  7.0013515597238046e-15
+Training a Neural Network with  9 6 3
+pearson-coefficient for train_joy_:  0.9231718118425946
+Training a Neural Network with  9 6 4
+pearson-coefficient for train_joy_:  0.7839890405074602
+Training a Neural Network with  9 6 5
+pearson-coefficient for train_joy_:  0.8885157937508599
+Training a Neural Network with  9 7 2
+pearson-coefficient for train_joy_:  0.8466749213640213
+Training a Neural Network with  9 7 3
+pearson-coefficient for train_joy_:  0.8101254271915345
+Training a Neural Network with  9 7 4
+pearson-coefficient for train_joy_:  0.8831064839002258
+Training a Neural Network with  9 7 5
+pearson-coefficient for train_joy_:  0.8978529217210347
+Training a Neural Network with  9 8 2
+pearson-coefficient for train_joy_:  0.554109685398692
+Training a Neural Network with  9 8 3
+pearson-coefficient for train_joy_:  -0.04875963886289424
+Training a Neural Network with  9 8 4
+pearson-coefficient for train_joy_:  0.7434519228413569
+Training a Neural Network with  9 8 5
+pearson-coefficient for train_joy_:  0.8751340279374665
+Training a Neural Network with  10 6 2
+pearson-coefficient for train_joy_:  -0.10353747255532075
+Training a Neural Network with  10 6 3
+pearson-coefficient for train_joy_:  0.80329372771588
+Training a Neural Network with  10 6 4
+pearson-coefficient for train_joy_:  0.19489108217583692
+Training a Neural Network with  10 6 5
+pearson-coefficient for train_joy_:  0.025237143393795822
+Training a Neural Network with  10 7 2
+pearson-coefficient for train_joy_:  0.9246426083904099
+Training a Neural Network with  10 7 3
+pearson-coefficient for train_joy_:  0.8499361020454217
+Training a Neural Network with  10 7 4
+pearson-coefficient for train_joy_:  -0.8236740193159668
+Training a Neural Network with  10 7 5
+pearson-coefficient for train_joy_:  0.8853492767634882
+Training a Neural Network with  10 8 2
+pearson-coefficient for train_joy_:  0.10175896747910074
+Training a Neural Network with  10 8 3
+pearson-coefficient for train_joy_:  0.9246220020393755
+Training a Neural Network with  10 8 4
+pearson-coefficient for train_joy_:  -0.8403508905607409
+Training a Neural Network with  10 8 5
+pearson-coefficient for train_joy_:  0.36623966040359884
+Training a Neural Network with  11 6 2
+pearson-coefficient for train_joy_:  0.9200434286289735
+Training a Neural Network with  11 6 3
+pearson-coefficient for train_joy_:  0.8442804797174389
+Training a Neural Network with  11 6 4
+pearson-coefficient for train_joy_:  -0.7295420725429781
+Training a Neural Network with  11 6 5
+pearson-coefficient for train_joy_:  0.9165924191616792
+Training a Neural Network with  11 7 2
+pearson-coefficient for train_joy_:  -0.6478806033650347
+Training a Neural Network with  11 7 3
+pearson-coefficient for train_joy_:  -0.1769531789776504
+Training a Neural Network with  11 7 4
+pearson-coefficient for train_joy_:  0.108295212731851
+Training a Neural Network with  11 7 5
+pearson-coefficient for train_joy_:  0.8805544001701867
+Training a Neural Network with  11 8 2
+pearson-coefficient for train_joy_:  0.8728724319087188
+Training a Neural Network with  11 8 3
+pearson-coefficient for train_joy_:  0.1600623669709499
+Training a Neural Network with  11 8 4
+pearson-coefficient for train_joy_:  -0.7004422616826217
+Training a Neural Network with  11 8 5
+pearson-coefficient for train_joy_:  -0.5899571308933267
+Training a Neural Network with  12 6 2
+pearson-coefficient for train_joy_:  -0.5811356069229047
+Training a Neural Network with  12 6 3
+pearson-coefficient for train_joy_:  0.6577359695960047
+Training a Neural Network with  12 6 4
+pearson-coefficient for train_joy_:  0.876342259520303
+Training a Neural Network with  12 6 5
+pearson-coefficient for train_joy_:  -0.4582054761268596
+Training a Neural Network with  12 7 2
+pearson-coefficient for train_joy_:  0.13378603062357838
+Training a Neural Network with  12 7 3
+pearson-coefficient for train_joy_:  0.8887109623603328
+Training a Neural Network with  12 7 4
+pearson-coefficient for train_joy_:  0.09994250928736977
+Training a Neural Network with  12 7 5
+pearson-coefficient for train_joy_:  0.881733199484065
+Training a Neural Network with  12 8 2
+pearson-coefficient for train_joy_:  -0.030819869963961157
+Training a Neural Network with  12 8 3
+pearson-coefficient for train_joy_:  0.9112105690066242
+Training a Neural Network with  12 8 4
+pearson-coefficient for train_joy_:  0.3466026351089554
+Training a Neural Network with  12 8 5
+pearson-coefficient for train_joy_:  0.8226535720907973
+Training a Neural Network with  13 6 2
+pearson-coefficient for train_joy_:  -0.34915391381783717
+Training a Neural Network with  13 6 3
+pearson-coefficient for train_joy_:  0.9221350408807829
+Training a Neural Network with  13 6 4
+pearson-coefficient for train_joy_:  0.727145389334202
+Training a Neural Network with  13 6 5
+pearson-coefficient for train_joy_:  0.8780002520535436
+Training a Neural Network with  13 7 2
+pearson-coefficient for train_joy_:  0.8970141623845155
+Training a Neural Network with  13 7 3
+pearson-coefficient for train_joy_:  0.8873621730843526
+Training a Neural Network with  13 7 4
+pearson-coefficient for train_joy_:  -0.4860984528408815
+Training a Neural Network with  13 7 5
+pearson-coefficient for train_joy_:  0.8696518715495072
+Training a Neural Network with  13 8 2
+pearson-coefficient for train_joy_:  9.158222873489091e-15
+Training a Neural Network with  13 8 3
+pearson-coefficient for train_joy_:  0.801584227936228
+Training a Neural Network with  13 8 4
+pearson-coefficient for train_joy_:  -0.7674941582611042
+Training a Neural Network with  13 8 5
+pearson-coefficient for train_joy_:  0.8852199684683713
+Training a Neural Network with  14 6 2
+pearson-coefficient for train_joy_:  -0.908536882397307
+Training a Neural Network with  14 6 3
+pearson-coefficient for train_joy_:  -0.11739409856580657
+Training a Neural Network with  14 6 4
+pearson-coefficient for train_joy_:  0.1995729223012954
+Training a Neural Network with  14 6 5
+pearson-coefficient for train_joy_:  0.9032944649474169
+Training a Neural Network with  14 7 2
+pearson-coefficient for train_joy_:  -9.668062210324742e-15
+Training a Neural Network with  14 7 3
+pearson-coefficient for train_joy_:  0.9202259871887255
+Training a Neural Network with  14 7 4
+pearson-coefficient for train_joy_:  0.7170433072707681
+Training a Neural Network with  14 7 5
+pearson-coefficient for train_joy_:  0.8990182363069417
+Training a Neural Network with  14 8 2
+pearson-coefficient for train_joy_:  -0.9241234235782156
+Training a Neural Network with  14 8 3
+pearson-coefficient for train_joy_:  0.7917915566211374
+Training a Neural Network with  14 8 4
+pearson-coefficient for train_joy_:  -0.5899964186530989
+Training a Neural Network with  14 8 5
+pearson-coefficient for train_joy_:  0.5660775000826846
+Creating training arrays for train_sadness_
+Creating dev arrays for dev_sadness_
+Training a Neural Network with  9 6 2
+pearson-coefficient for train_sadness_:  0.026718944712804543
+Training a Neural Network with  9 6 3
+pearson-coefficient for train_sadness_:  0.9155608773435662
+Training a Neural Network with  9 6 4
+pearson-coefficient for train_sadness_:  0.7098987653103235
+Training a Neural Network with  9 6 5
+pearson-coefficient for train_sadness_:  0.8884471560867836
+Training a Neural Network with  9 7 2
+pearson-coefficient for train_sadness_:  0.8496821129382258
+Training a Neural Network with  9 7 3
+pearson-coefficient for train_sadness_:  0.7696194680325571
+Training a Neural Network with  9 7 4
+pearson-coefficient for train_sadness_:  0.8477305749130084
+Training a Neural Network with  9 7 5
+pearson-coefficient for train_sadness_:  0.9049093520847059
+Training a Neural Network with  9 8 2
+pearson-coefficient for train_sadness_:  -0.023414332614009003
+Training a Neural Network with  9 8 3
+pearson-coefficient for train_sadness_:  -0.04997990756978783
+Training a Neural Network with  9 8 4
+pearson-coefficient for train_sadness_:  0.7236833012916036
+Training a Neural Network with  9 8 5
+pearson-coefficient for train_sadness_:  0.8761243932395746
+Training a Neural Network with  10 6 2
+pearson-coefficient for train_sadness_:  -0.11430011721732253
+Training a Neural Network with  10 6 3
+pearson-coefficient for train_sadness_:  0.7645645083895534
+Training a Neural Network with  10 6 4
+pearson-coefficient for train_sadness_:  0.31563619696952694
+Training a Neural Network with  10 6 5
+pearson-coefficient for train_sadness_:  0.1051094550171489
+Training a Neural Network with  10 7 2
+pearson-coefficient for train_sadness_:  0.9189654761846355
+Training a Neural Network with  10 7 3
+pearson-coefficient for train_sadness_:  0.8607758867600562
+Training a Neural Network with  10 7 4
+pearson-coefficient for train_sadness_:  -0.8466614849751415
+Training a Neural Network with  10 7 5
+pearson-coefficient for train_sadness_:  0.8892209933575038
+Training a Neural Network with  10 8 2
+pearson-coefficient for train_sadness_:  -0.05220837021400436
+Training a Neural Network with  10 8 3
+pearson-coefficient for train_sadness_:  0.9187937194060974
+Training a Neural Network with  10 8 4
+pearson-coefficient for train_sadness_:  -0.8472643888240973
+Training a Neural Network with  10 8 5
+pearson-coefficient for train_sadness_:  0.05674975975284279
+Training a Neural Network with  11 6 2
+pearson-coefficient for train_sadness_:  0.9165907883252421
+Training a Neural Network with  11 6 3
+pearson-coefficient for train_sadness_:  0.8433651282996854
+Training a Neural Network with  11 6 4
+pearson-coefficient for train_sadness_:  -0.6946546411434005
+Training a Neural Network with  11 6 5
+pearson-coefficient for train_sadness_:  0.9099367065960646
+Training a Neural Network with  11 7 2
+pearson-coefficient for train_sadness_:  -0.6686330625033443
+Training a Neural Network with  11 7 3
+pearson-coefficient for train_sadness_:  -0.1415675668225278
+Training a Neural Network with  11 7 4
+pearson-coefficient for train_sadness_:  0.34289197239865665
+Training a Neural Network with  11 7 5
+pearson-coefficient for train_sadness_:  0.8827360994802405
+Training a Neural Network with  11 8 2
+pearson-coefficient for train_sadness_:  0.8708373881186555
+Training a Neural Network with  11 8 3
+pearson-coefficient for train_sadness_:  0.1004775383327836
+Training a Neural Network with  11 8 4
+pearson-coefficient for train_sadness_:  -0.7753958143320944
+Training a Neural Network with  11 8 5
+pearson-coefficient for train_sadness_:  -0.6535355205447116
+Training a Neural Network with  12 6 2
+pearson-coefficient for train_sadness_:  -0.6264867542885739
+Training a Neural Network with  12 6 3
+pearson-coefficient for train_sadness_:  0.7279129072732559
+Training a Neural Network with  12 6 4
+pearson-coefficient for train_sadness_:  0.8762352150507766
+Training a Neural Network with  12 6 5
+pearson-coefficient for train_sadness_:  -0.2175620076114341
+Training a Neural Network with  12 7 2
+pearson-coefficient for train_sadness_:  0.0891390779603126
+Training a Neural Network with  12 7 3
+pearson-coefficient for train_sadness_:  0.8885858767380976
+Training a Neural Network with  12 7 4
+pearson-coefficient for train_sadness_:  0.08397853994875613
+Training a Neural Network with  12 7 5
+pearson-coefficient for train_sadness_:  0.8963604852068381
+Training a Neural Network with  12 8 2
+pearson-coefficient for train_sadness_:  0.04900933354631927
+Training a Neural Network with  12 8 3
+pearson-coefficient for train_sadness_:  0.9054803355229174
+Training a Neural Network with  12 8 4
+pearson-coefficient for train_sadness_:  0.4146328583140266
+Training a Neural Network with  12 8 5
+pearson-coefficient for train_sadness_:  0.8158474568689839
+Training a Neural Network with  13 6 2
+pearson-coefficient for train_sadness_:  -0.4239507397407822
+Training a Neural Network with  13 6 3
+pearson-coefficient for train_sadness_:  0.9087592217669676
+Training a Neural Network with  13 6 4
+pearson-coefficient for train_sadness_:  0.7050460300963064
+Training a Neural Network with  13 6 5
+pearson-coefficient for train_sadness_:  0.8917353097428591
+Training a Neural Network with  13 7 2
+pearson-coefficient for train_sadness_:  0.8971398901988973
+Training a Neural Network with  13 7 3
+pearson-coefficient for train_sadness_:  0.8556166999207907
+Training a Neural Network with  13 7 4
+pearson-coefficient for train_sadness_:  -0.4534785045807741
+Training a Neural Network with  13 7 5
+pearson-coefficient for train_sadness_:  0.8793171911817225
+Training a Neural Network with  13 8 2
+pearson-coefficient for train_sadness_:  -5.308437466211566e-15
+Training a Neural Network with  13 8 3
+pearson-coefficient for train_sadness_:  0.8128070850824898
+Training a Neural Network with  13 8 4
+pearson-coefficient for train_sadness_:  -0.7333866758050593
+Training a Neural Network with  13 8 5
+pearson-coefficient for train_sadness_:  0.8798222690590315
+Training a Neural Network with  14 6 2
+pearson-coefficient for train_sadness_:  -0.899477308818268
+Training a Neural Network with  14 6 3
+pearson-coefficient for train_sadness_:  -0.09957141946277763
+Training a Neural Network with  14 6 4
+pearson-coefficient for train_sadness_:  0.2141231850353898
+Training a Neural Network with  14 6 5
+pearson-coefficient for train_sadness_:  0.9016268283528325
+Training a Neural Network with  14 7 2
+pearson-coefficient for train_sadness_:  0.0362695463175269
+Training a Neural Network with  14 7 3
+pearson-coefficient for train_sadness_:  0.9189654761845867
+Training a Neural Network with  14 7 4
+pearson-coefficient for train_sadness_:  0.6985295413620131
+Training a Neural Network with  14 7 5
+pearson-coefficient for train_sadness_:  0.8939432268815833
+Training a Neural Network with  14 8 2
+pearson-coefficient for train_sadness_:  -0.9195840135680492
+Training a Neural Network with  14 8 3
+pearson-coefficient for train_sadness_:  0.7491346936431844
+Training a Neural Network with  14 8 4
+pearson-coefficient for train_sadness_:  -0.5891735800635118
+Training a Neural Network with  14 8 5
+pearson-coefficient for train_sadness_:  0.27866205833191005
