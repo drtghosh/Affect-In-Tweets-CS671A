@@ -148,35 +148,6 @@ def produceWordEmbd(rawTweet):
 # print(word_vecs_tweet)
 
 emotions = ['train_anger_', 'train_fear_', 'train_joy_', 'train_sadness_', 'dev_anger_', 'dev_fear_', 'dev_joy_', 'dev_sadness_', 'test_anger_', 'test_fear_', 'test_joy_', 'test_sadness_']
-"""
-# The following snippet if for tuning hyperparameters:
-result=[]
-for i in range(4):
-	train_data = np.zeros((len(data[i][0]), 400))
-	train_labels = np.zeros(len(data[i][0]))
-	dev_data = np.zeros((len(data[i][0]), 400))
-	dev_labels = np.zeros(len(data[i][0]))
-	for j in tqdm.trange(len(data[i][0])):
-		temp = produceWordEmbd(data[i][0][j])
-		train_data[j] = temp
-		train_labels[j] = data[i][1][j]
-	h = i + 4 # index for dev sets, i is index for training sets
-	
-	for j in tqdm.trange(len(data[h][0])):
-		temp = produceWordEmbd(data[h][0][j])
-		dev_data[j] = temp
-		dev_labels[j] = data[h][1][j]
-	
-	mlp  = MLPRegressor(solver='lbfgs', alpha=1e-5, hidden_layer_sizes=(9, 5, 7), random_state=1, activation='tanh', learning_rate='adaptive')
-	mlp.fit(train_data, train_labels)
-	mlp_predicted = mlp.predict(dev_data)
-	# print(dev_labels - mlp_predicted)
-	c = CorrelationPearson()
-	result.append(c.result(dev_labels, mlp_predicted))
-	print("pearson-coefficient for " + emotions[i] + ": ", c.result(dev_labels, mlp_predicted))
-
-print("Avg of pearson-coefficients for all the four emotions: ", sum(result)/4)"""
-
 
 #Various regression methods
 regMethods = [ "Neural Nets", "Decision Tree", "Random Forests", "K-NN", "ADA-Boost", "Gradient-Boost"]
