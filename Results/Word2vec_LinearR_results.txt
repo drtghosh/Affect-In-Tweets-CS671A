@@ -1,0 +1,29 @@
+Loading models...
+Models Loaded.
+Linear Regression- Pearson Coefficient for train_anger_:  0.5967668607656418
+Linear Regression- Pearson Coefficient for train_anger_:  0.5887864925928487
+Linear Regression- Pearson Coefficient for train_anger_:  0.6415243635303733
+Linear Regression- Pearson Coefficient for train_anger_:  0.5625398429632363
+Linear Regression- Pearson Coefficient for train_anger_:  0.6615591029041709
+Linear Regression:Avg of pearson-coefficients for the train_anger_ :  0.6102353325512542
+Linear Regression- Pearson Coefficient for train_fear_:  0.6014188288928353
+Linear Regression- Pearson Coefficient for train_fear_:  0.63238446534359
+Linear Regression- Pearson Coefficient for train_fear_:  0.5891556514548145
+Linear Regression- Pearson Coefficient for train_fear_:  0.653649648814078
+Linear Regression- Pearson Coefficient for train_fear_:  0.6418546927165589
+Linear Regression:Avg of pearson-coefficients for the train_fear_ :  0.6236926574443753
+Linear Regression- Pearson Coefficient for train_joy_:  0.6456293430655259
+Linear Regression- Pearson Coefficient for train_joy_:  0.6092970447568742
+Linear Regression- Pearson Coefficient for train_joy_:  0.553339001757942
+Linear Regression- Pearson Coefficient for train_joy_:  0.6423785890521109
+Linear Regression- Pearson Coefficient for train_joy_:  0.6097636153786525
+Linear Regression:Avg of pearson-coefficients for the train_joy_ :  0.6120815188022212
+Linear Regression- Pearson Coefficient for train_sadness_:  0.5353875696054574
+Linear Regression- Pearson Coefficient for train_sadness_:  0.6523933894314644
+Linear Regression- Pearson Coefficient for train_sadness_:  0.5204887330834489
+Linear Regression- Pearson Coefficient for train_sadness_:  0.6054513360770153
+Linear Regression- Pearson Coefficient for train_sadness_:  0.5208582692152502
+Linear Regression:Avg of pearson-coefficients for the train_sadness_ :  0.5669158594825272
+--------------------------------------------
+Final PC for Linear Regression 0.6032313420700944
+--------------------------------------------
