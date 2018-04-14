@@ -1,0 +1,30 @@
+Loading models...
+Models Loaded.
+[4;33mReloaded modules[24m: preProcess[0m
+ain_anger_:  0.6104417404278114
+Shallow Neural Net- Pearson Coefficient for train_anger_:  0.5823890830990218
+Shallow Neural Net- Pearson Coefficient for train_anger_:  0.6473966187410407
+Shallow Neural Net- Pearson Coefficient for train_anger_:  0.5330400008428814
+Shallow Neural Net- Pearson Coefficient for train_anger_:  0.5900299277611919
+Shallow Neural Net:Avg of pearson-coefficients for the train_anger_ :  0.5926594741743895
+Shallow Neural Net- Pearson Coefficient for train_fear_:  0.6118630684330764
+Shallow Neural Net- Pearson Coefficient for train_fear_:  0.5936412035223536
+Shallow Neural Net- Pearson Coefficient for train_fear_:  0.5902762940769409
+Shallow Neural Net- Pearson Coefficient for train_fear_:  0.6680650650308838
+Shallow Neural Net- Pearson Coefficient for train_fear_:  0.6478898024522761
+Shallow Neural Net:Avg of pearson-coefficients for the train_fear_ :  0.6223470867031061
+Shallow Neural Net- Pearson Coefficient for train_joy_:  0.7029698967071238
+Shallow Neural Net- Pearson Coefficient for train_joy_:  0.6306049239589181
+Shallow Neural Net- Pearson Coefficient for train_joy_:  0.6044364227449229
+Shallow Neural Net- Pearson Coefficient for train_joy_:  0.6666412544226401
+Shallow Neural Net- Pearson Coefficient for train_joy_:  0.6074979400152644
+Shallow Neural Net:Avg of pearson-coefficients for the train_joy_ :  0.6424300875697738
+Shallow Neural Net- Pearson Coefficient for train_sadness_:  0.5371166616219973
+Shallow Neural Net- Pearson Coefficient for train_sadness_:  0.6573161819910507
+Shallow Neural Net- Pearson Coefficient for train_sadness_:  0.532026352910283
+Shallow Neural Net- Pearson Coefficient for train_sadness_:  0.561802331890004
+Shallow Neural Net- Pearson Coefficient for train_sadness_:  0.5455802425110292
+Shallow Neural Net:Avg of pearson-coefficients for the train_sadness_ :  0.5667683541848729
+--------------------------------------------
+Final PC for Shallow Neural Net 0.6060512506580356
+--------------------------------------------
