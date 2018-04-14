@@ -1,0 +1,29 @@
+Loading models...
+Models Loaded.
+Bayesian Ridge Regression- Pearson Coefficient for train_anger_:  0.6403417237538963
+Bayesian Ridge Regression- Pearson Coefficient for train_anger_:  0.6531015100237916
+Bayesian Ridge Regression- Pearson Coefficient for train_anger_:  0.6790810612424829
+Bayesian Ridge Regression- Pearson Coefficient for train_anger_:  0.605332279717378
+Bayesian Ridge Regression- Pearson Coefficient for train_anger_:  0.7122737450359393
+Bayesian Ridge Regression:Avg of pearson-coefficients for the train_anger_ :  0.6580260639546976
+Bayesian Ridge Regression- Pearson Coefficient for train_fear_:  0.6234301489841818
+Bayesian Ridge Regression- Pearson Coefficient for train_fear_:  0.6528920408654646
+Bayesian Ridge Regression- Pearson Coefficient for train_fear_:  0.6365925984101755
+Bayesian Ridge Regression- Pearson Coefficient for train_fear_:  0.7018599377986737
+Bayesian Ridge Regression- Pearson Coefficient for train_fear_:  0.6697034365118012
+Bayesian Ridge Regression:Avg of pearson-coefficients for the train_fear_ :  0.6568956325140594
+Bayesian Ridge Regression- Pearson Coefficient for train_joy_:  0.6994540365701193
+Bayesian Ridge Regression- Pearson Coefficient for train_joy_:  0.6883247455055935
+Bayesian Ridge Regression- Pearson Coefficient for train_joy_:  0.6437468332166252
+Bayesian Ridge Regression- Pearson Coefficient for train_joy_:  0.688463270866181
+Bayesian Ridge Regression- Pearson Coefficient for train_joy_:  0.666261331127954
+Bayesian Ridge Regression:Avg of pearson-coefficients for the train_joy_ :  0.6772500434572947
+Bayesian Ridge Regression- Pearson Coefficient for train_sadness_:  0.6350156192022733
+Bayesian Ridge Regression- Pearson Coefficient for train_sadness_:  0.7065828903560049
+Bayesian Ridge Regression- Pearson Coefficient for train_sadness_:  0.6345558475622312
+Bayesian Ridge Regression- Pearson Coefficient for train_sadness_:  0.6695298616349269
+Bayesian Ridge Regression- Pearson Coefficient for train_sadness_:  0.639779146407544
+Bayesian Ridge Regression:Avg of pearson-coefficients for the train_sadness_ :  0.657092673032596
+--------------------------------------------
+Final PC for Bayesian Ridge Regression 0.6623161032396618
+--------------------------------------------
