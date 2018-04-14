@@ -1,0 +1,30 @@
+Loading models...
+Models Loaded.
+[4;33mReloaded modules[24m: preProcess[0m
+nger_:  0.6856799804808555
+GP Regression- Pearson Coefficient for train_anger_:  0.6808775592379537
+GP Regression- Pearson Coefficient for train_anger_:  0.7144254451988266
+GP Regression- Pearson Coefficient for train_anger_:  0.646796962188121
+GP Regression- Pearson Coefficient for train_anger_:  0.7165374656402027
+GP Regression:Avg of pearson-coefficients for the train_anger_ :  0.6888634825491919
+GP Regression- Pearson Coefficient for train_fear_:  0.6750449083502511
+GP Regression- Pearson Coefficient for train_fear_:  0.7176033779381977
+GP Regression- Pearson Coefficient for train_fear_:  0.6991701165228354
+GP Regression- Pearson Coefficient for train_fear_:  0.7388357646283202
+GP Regression- Pearson Coefficient for train_fear_:  0.7294984685002524
+GP Regression:Avg of pearson-coefficients for the train_fear_ :  0.7120305271879713
+GP Regression- Pearson Coefficient for train_joy_:  0.7434355402543362
+GP Regression- Pearson Coefficient for train_joy_:  0.7450680538931599
+GP Regression- Pearson Coefficient for train_joy_:  0.7005666930688499
+GP Regression- Pearson Coefficient for train_joy_:  0.7227267351272396
+GP Regression- Pearson Coefficient for train_joy_:  0.7179025107926698
+GP Regression:Avg of pearson-coefficients for the train_joy_ :  0.7259399066272512
+GP Regression- Pearson Coefficient for train_sadness_:  0.702439599985029
+GP Regression- Pearson Coefficient for train_sadness_:  0.7189203381051389
+GP Regression- Pearson Coefficient for train_sadness_:  0.6863829434783135
+GP Regression- Pearson Coefficient for train_sadness_:  0.6792938802637729
+GP Regression- Pearson Coefficient for train_sadness_:  0.7032784628389978
+GP Regression:Avg of pearson-coefficients for the train_sadness_ :  0.6980630449342504
+--------------------------------------------
+Final PC for GP Regression 0.7062242403246661
+--------------------------------------------
