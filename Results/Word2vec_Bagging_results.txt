@@ -1,0 +1,29 @@
+Loading models...
+Models Loaded.
+Ensemble: Bagging- Pearson Coefficient for train_anger_:  0.49639577092837417
+Ensemble: Bagging- Pearson Coefficient for train_anger_:  0.4608138674748778
+Ensemble: Bagging- Pearson Coefficient for train_anger_:  0.49283190297601936
+Ensemble: Bagging- Pearson Coefficient for train_anger_:  0.4557849366941693
+Ensemble: Bagging- Pearson Coefficient for train_anger_:  0.4255540735923611
+Ensemble: Bagging:Avg of pearson-coefficients for the train_anger_ :  0.46627611033316035
+Ensemble: Bagging- Pearson Coefficient for train_fear_:  0.5637012764673066
+Ensemble: Bagging- Pearson Coefficient for train_fear_:  0.5258514588535765
+Ensemble: Bagging- Pearson Coefficient for train_fear_:  0.4731288167533148
+Ensemble: Bagging- Pearson Coefficient for train_fear_:  0.5156571463344491
+Ensemble: Bagging- Pearson Coefficient for train_fear_:  0.5103157076467123
+Ensemble: Bagging:Avg of pearson-coefficients for the train_fear_ :  0.5177308812110718
+Ensemble: Bagging- Pearson Coefficient for train_joy_:  0.6243354420457196
+Ensemble: Bagging- Pearson Coefficient for train_joy_:  0.5959980251413957
+Ensemble: Bagging- Pearson Coefficient for train_joy_:  0.49398358077646837
+Ensemble: Bagging- Pearson Coefficient for train_joy_:  0.5628554505798663
+Ensemble: Bagging- Pearson Coefficient for train_joy_:  0.5054118365379211
+Ensemble: Bagging:Avg of pearson-coefficients for the train_joy_ :  0.5565168670162742
+Ensemble: Bagging- Pearson Coefficient for train_sadness_:  0.4806479720484975
+Ensemble: Bagging- Pearson Coefficient for train_sadness_:  0.5074238735929932
+Ensemble: Bagging- Pearson Coefficient for train_sadness_:  0.5144460619817173
+Ensemble: Bagging- Pearson Coefficient for train_sadness_:  0.5062731507995986
+Ensemble: Bagging- Pearson Coefficient for train_sadness_:  0.49911481017489784
+Ensemble: Bagging:Avg of pearson-coefficients for the train_sadness_ :  0.5015811737195409
+--------------------------------------------
+Final PC for Ensemble: Bagging 0.5105262580700118
+--------------------------------------------
