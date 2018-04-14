@@ -25,5 +25,5 @@ LibLinear Regression- Pearson Coefficient for train_sadness_:  0.619967911852151
 LibLinear Regression- Pearson Coefficient for train_sadness_:  0.5434791380379385
 LibLinear Regression:Avg of pearson-coefficients for the train_sadness_ :  0.5621136801200461
 --------------------------------------------
-Final PC for SVM Regression 0.5802233801048038
+Final PC for LibLinear Regression 0.5802233801048038
 --------------------------------------------
