@@ -1,0 +1,11 @@
+Loading models...
+Models Loaded.
+GP Regression- Pearson Coefficient for valence:  0.7040032745219557
+GP Regression- Pearson Coefficient for valence:  0.7113837022312471
+GP Regression- Pearson Coefficient for valence:  0.7307442093275741
+GP Regression- Pearson Coefficient for valence:  0.7207310777037771
+GP Regression- Pearson Coefficient for valence:  0.7440336709540126
+GP Regression:Avg of pearson-coefficients for the valence :  0.7221791869477133
+--------------------------------------------
+Final PC for GP Regression 0.7221791869477133
+--------------------------------------------
