@@ -1,0 +1,30 @@
+Loading models...
+Models Loaded.
+[4;33mReloaded modules[24m: preProcess[0m
+ain_anger_:  0.6435676904042531
+XGBoost Regression- Pearson Coefficient for train_anger_:  0.5864211017992872
+XGBoost Regression- Pearson Coefficient for train_anger_:  0.639647759950004
+XGBoost Regression- Pearson Coefficient for train_anger_:  0.5874529002875433
+XGBoost Regression- Pearson Coefficient for train_anger_:  0.6601551158771409
+XGBoost Regression:Avg of pearson-coefficients for the train_anger_ :  0.6234489136636456
+XGBoost Regression- Pearson Coefficient for train_fear_:  0.6519077972023655
+XGBoost Regression- Pearson Coefficient for train_fear_:  0.6542234937800022
+XGBoost Regression- Pearson Coefficient for train_fear_:  0.63224477049687
+XGBoost Regression- Pearson Coefficient for train_fear_:  0.6518643461922052
+XGBoost Regression- Pearson Coefficient for train_fear_:  0.6532999794300923
+XGBoost Regression:Avg of pearson-coefficients for the train_fear_ :  0.648708077420307
+XGBoost Regression- Pearson Coefficient for train_joy_:  0.6692452359520755
+XGBoost Regression- Pearson Coefficient for train_joy_:  0.6733728620311886
+XGBoost Regression- Pearson Coefficient for train_joy_:  0.6392998408718837
+XGBoost Regression- Pearson Coefficient for train_joy_:  0.693466053026186
+XGBoost Regression- Pearson Coefficient for train_joy_:  0.635149284905085
+XGBoost Regression:Avg of pearson-coefficients for the train_joy_ :  0.6621066553572837
+XGBoost Regression- Pearson Coefficient for train_sadness_:  0.58633544928126
+XGBoost Regression- Pearson Coefficient for train_sadness_:  0.6271892170783492
+XGBoost Regression- Pearson Coefficient for train_sadness_:  0.5877773505907703
+XGBoost Regression- Pearson Coefficient for train_sadness_:  0.6338668428632214
+XGBoost Regression- Pearson Coefficient for train_sadness_:  0.5841373671697703
+XGBoost Regression:Avg of pearson-coefficients for the train_sadness_ :  0.6038612453966742
+--------------------------------------------
+Final PC for XGBoost Regression 0.6345312229594776
+--------------------------------------------
