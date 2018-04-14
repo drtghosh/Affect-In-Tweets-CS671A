@@ -1,0 +1,8 @@
+Loading models...
+Models Loaded.
+SVM Classification- accuracy of classification for valence:  0.82489451476793246
+SVM Classification- accuracy of classification for valence:  0.8728813559322034
+SVM Classification- accuracy of classification for valence:  0.8135593220338983
+SVM Classification- accuracy of classification for valence:  0.7966101694915254
+SVM Classification- accuracy of classification for valence:  0.8008474576271186
+SVM Classification:Avg of the accuracies for valence :  0.8217585639705356
