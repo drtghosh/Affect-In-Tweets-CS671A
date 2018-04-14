@@ -139,8 +139,8 @@ def produceWordEmbd(rawTweet):
 
 emotions = ['train_anger_', 'train_fear_', 'train_joy_', 'train_sadness_', 'dev_anger_', 'dev_fear_', 'dev_joy_', 'dev_sadness_', 'test_anger_', 'test_fear_', 'test_joy_', 'test_sadness_']
 
-#SVR model
-regMethod = "SVM Regression"
+#LibLinear model
+regMethod = "LibLinear Regression"
 regModel = LinearSVR(C=1.0, dual=True, epsilon=0.0, fit_intercept=True,
      intercept_scaling=1.0, loss='epsilon_insensitive', max_iter=1000,
      random_state=0, tol=0.0001, verbose=0)
