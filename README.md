@@ -1,2 +1,2 @@
 # Affect-In-Tweets-CS671A
-NLP Project
+SemeVal 2018 task: See Codalab for more details
