@@ -1,29 +1,29 @@
 Loading models...
 Models Loaded.
-SVM Regression- Pearson Coefficient for train_anger_:  0.5916848562777945
-SVM Regression- Pearson Coefficient for train_anger_:  0.5411249795266981
-SVM Regression- Pearson Coefficient for train_anger_:  0.6145363397929461
-SVM Regression- Pearson Coefficient for train_anger_:  0.5516527333947314
-SVM Regression- Pearson Coefficient for train_anger_:  0.6117557309000352
-SVM Regression:Avg of pearson-coefficients for the train_anger_ :  0.582150927978441
-SVM Regression- Pearson Coefficient for train_fear_:  0.5734824931492123
-SVM Regression- Pearson Coefficient for train_fear_:  0.5949638851329572
-SVM Regression- Pearson Coefficient for train_fear_:  0.5596479888414986
-SVM Regression- Pearson Coefficient for train_fear_:  0.6283576822725072
-SVM Regression- Pearson Coefficient for train_fear_:  0.6130197409583872
-SVM Regression:Avg of pearson-coefficients for the train_fear_ :  0.5938943580709124
-SVM Regression- Pearson Coefficient for train_joy_:  0.5906261864462453
-SVM Regression- Pearson Coefficient for train_joy_:  0.588804790675635
-SVM Regression- Pearson Coefficient for train_joy_:  0.5129236089626008
-SVM Regression- Pearson Coefficient for train_joy_:  0.6159902432724169
-SVM Regression- Pearson Coefficient for train_joy_:  0.6053279418921796
-SVM Regression:Avg of pearson-coefficients for the train_joy_ :  0.5827345542498155
-SVM Regression- Pearson Coefficient for train_sadness_:  0.5107774823767951
-SVM Regression- Pearson Coefficient for train_sadness_:  0.632010800162289
-SVM Regression- Pearson Coefficient for train_sadness_:  0.5043330681710566
-SVM Regression- Pearson Coefficient for train_sadness_:  0.6199679118521515
-SVM Regression- Pearson Coefficient for train_sadness_:  0.5434791380379385
-SVM Regression:Avg of pearson-coefficients for the train_sadness_ :  0.5621136801200461
+LibLinear Regression- Pearson Coefficient for train_anger_:  0.5916848562777945
+LibLinear Regression- Pearson Coefficient for train_anger_:  0.5411249795266981
+LibLinear Regression- Pearson Coefficient for train_anger_:  0.6145363397929461
+LibLinear Regression- Pearson Coefficient for train_anger_:  0.5516527333947314
+LibLinear Regression- Pearson Coefficient for train_anger_:  0.6117557309000352
+LibLinear Regression:Avg of pearson-coefficients for the train_anger_ :  0.582150927978441
+LibLinear Regression- Pearson Coefficient for train_fear_:  0.5734824931492123
+LibLinear Regression- Pearson Coefficient for train_fear_:  0.5949638851329572
+LibLinear Regression- Pearson Coefficient for train_fear_:  0.5596479888414986
+LibLinear Regression- Pearson Coefficient for train_fear_:  0.6283576822725072
+LibLinear Regression- Pearson Coefficient for train_fear_:  0.6130197409583872
+LibLinear Regression:Avg of pearson-coefficients for the train_fear_ :  0.5938943580709124
+LibLinear Regression- Pearson Coefficient for train_joy_:  0.5906261864462453
+LibLinear Regression- Pearson Coefficient for train_joy_:  0.588804790675635
+LibLinear Regression- Pearson Coefficient for train_joy_:  0.5129236089626008
+LibLinear Regression- Pearson Coefficient for train_joy_:  0.6159902432724169
+LibLinear Regression- Pearson Coefficient for train_joy_:  0.6053279418921796
+LibLinear Regression:Avg of pearson-coefficients for the train_joy_ :  0.5827345542498155
+LibLinear Regression- Pearson Coefficient for train_sadness_:  0.5107774823767951
+LibLinear Regression- Pearson Coefficient for train_sadness_:  0.632010800162289
+LibLinear Regression- Pearson Coefficient for train_sadness_:  0.5043330681710566
+LibLinear Regression- Pearson Coefficient for train_sadness_:  0.6199679118521515
+LibLinear Regression- Pearson Coefficient for train_sadness_:  0.5434791380379385
+LibLinear Regression:Avg of pearson-coefficients for the train_sadness_ :  0.5621136801200461
 --------------------------------------------
 Final PC for SVM Regression 0.5802233801048038
 --------------------------------------------
