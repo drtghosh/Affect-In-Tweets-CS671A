@@ -1,0 +1,11 @@
+Loading models...
+Models Loaded.
+SVM Regression- Pearson Coefficient for valence:  0.6615405808587781
+SVM Regression- Pearson Coefficient for valence:  0.7095758511852869
+SVM Regression- Pearson Coefficient for valence:  0.6900996502915486
+SVM Regression- Pearson Coefficient for valence:  0.632672687019298
+SVM Regression- Pearson Coefficient for valence:  0.6914586419533624
+SVM Regression:Avg of pearson-coefficients for the valence :  0.6770694822616548
+--------------------------------------------
+Final PC for SVM Regression 0.6770694822616548
+--------------------------------------------

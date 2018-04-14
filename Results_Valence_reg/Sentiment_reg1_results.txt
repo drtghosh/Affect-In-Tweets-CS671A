@@ -1,0 +1,56 @@
+Loading models...
+Models Loaded.
+Neural Nets- Pearson Coefficient for valence:  0.630494658118714
+Neural Nets- Pearson Coefficient for valence:  0.6253173342411918
+Neural Nets- Pearson Coefficient for valence:  0.6403858848555196
+Neural Nets- Pearson Coefficient for valence:  0.6267214168646298
+Neural Nets- Pearson Coefficient for valence:  0.6445525789469104
+Neural Nets:Avg of pearson-coefficients for the valence :  0.6334943746053932
+[4;33mReloaded modules[24m: preProcess[0m
+Final PC for Neural Nets 0.6334943746053932
+--------------------------------------------
+Decision Tree- Pearson Coefficient for valence:  0.30483768727133953
+Decision Tree- Pearson Coefficient for valence:  0.32891023085415944
+Decision Tree- Pearson Coefficient for valence:  0.211676578821397
+Decision Tree- Pearson Coefficient for valence:  0.25705694812832763
+Decision Tree- Pearson Coefficient for valence:  0.2973117683667786
+Decision Tree:Avg of pearson-coefficients for the valence :  0.2799586426884004
+--------------------------------------------
+Final PC for Decision Tree 0.2799586426884004
+--------------------------------------------
+Random Forests- Pearson Coefficient for valence:  0.4718888965750758
+Random Forests- Pearson Coefficient for valence:  0.4813047472974659
+Random Forests- Pearson Coefficient for valence:  0.4203796372319528
+Random Forests- Pearson Coefficient for valence:  0.37117085317601056
+Random Forests- Pearson Coefficient for valence:  0.4298338748369622
+Random Forests:Avg of pearson-coefficients for the valence :  0.4349156018234934
+--------------------------------------------
+Final PC for Random Forests 0.4349156018234934
+--------------------------------------------
+K-NN- Pearson Coefficient for valence:  0.49818382257231825
+K-NN- Pearson Coefficient for valence:  0.4121321076460395
+K-NN- Pearson Coefficient for valence:  0.5127175516375051
+K-NN- Pearson Coefficient for valence:  0.27724298137758924
+K-NN- Pearson Coefficient for valence:  0.44534185645483126
+K-NN:Avg of pearson-coefficients for the valence :  0.4291236639376567
+--------------------------------------------
+Final PC for K-NN 0.4291236639376567
+--------------------------------------------
+ADA-Boost- Pearson Coefficient for valence:  0.5653724615987901
+ADA-Boost- Pearson Coefficient for valence:  0.559658516412201
+ADA-Boost- Pearson Coefficient for valence:  0.6003365704134234
+ADA-Boost- Pearson Coefficient for valence:  0.5796555321856941
+ADA-Boost- Pearson Coefficient for valence:  0.6533736672975332
+ADA-Boost:Avg of pearson-coefficients for the valence :  0.5916793495815285
+--------------------------------------------
+Final PC for ADA-Boost 0.5916793495815285
+--------------------------------------------
+Gradient-Boost- Pearson Coefficient for valence:  0.6529766372890715
+Gradient-Boost- Pearson Coefficient for valence:  0.6281351653575286
+Gradient-Boost- Pearson Coefficient for valence:  0.6769642048038091
+Gradient-Boost- Pearson Coefficient for valence:  0.6457417735346699
+Gradient-Boost- Pearson Coefficient for valence:  0.6899952535450046
+Gradient-Boost:Avg of pearson-coefficients for the valence :  0.6587626069060167
+--------------------------------------------
+Final PC for Gradient-Boost 0.6587626069060167
+--------------------------------------------

@@ -1,0 +1,11 @@
+Loading models...
+Models Loaded.
+Linear Regression- Pearson Coefficient for valence:  0.598493144355619
+Linear Regression- Pearson Coefficient for valence:  0.6245116250689224
+Linear Regression- Pearson Coefficient for valence:  0.5838495985641043
+Linear Regression- Pearson Coefficient for valence:  0.6256573010103207
+Linear Regression- Pearson Coefficient for valence:  0.5845210758803274
+Linear Regression:Avg of pearson-coefficients for the valence :  0.6034065489758588
+--------------------------------------------
+Final PC for Linear Regression 0.6034065489758588
+--------------------------------------------

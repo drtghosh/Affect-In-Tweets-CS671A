@@ -1,0 +1,11 @@
+Loading models...
+Models Loaded.
+Bayesian Ridge Regression- Pearson Coefficient for valence:  0.6986968318700143
+Bayesian Ridge Regression- Pearson Coefficient for valence:  0.7138949345846003
+Bayesian Ridge Regression- Pearson Coefficient for valence:  0.6975059681075512
+Bayesian Ridge Regression- Pearson Coefficient for valence:  0.6991708816509705
+Bayesian Ridge Regression- Pearson Coefficient for valence:  0.7038348625084678
+Bayesian Ridge Regression:Avg of pearson-coefficients for the valence :  0.7026206957443208
+--------------------------------------------
+Final PC for Bayesian Ridge Regression 0.7026206957443208
+--------------------------------------------

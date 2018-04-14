@@ -1,0 +1,11 @@
+Loading models...
+Models Loaded.
+XGBoost Regression- Pearson Coefficient for valence:  0.6515794636395882
+XGBoost Regression- Pearson Coefficient for valence:  0.6259237163067723
+XGBoost Regression- Pearson Coefficient for valence:  0.6839441307675055
+XGBoost Regression- Pearson Coefficient for valence:  0.6549254254400166
+XGBoost Regression- Pearson Coefficient for valence:  0.6958255719655666
+XGBoost Regression:Avg of pearson-coefficients for the valence :  0.6624396616238898
+--------------------------------------------
+Final PC for XGBoost Regression 0.6624396616238898
+--------------------------------------------

@@ -1,0 +1,11 @@
+Loading models...
+Models Loaded.
+LibLinear Regression- Pearson Coefficient for valence:  0.6116708857595692
+LibLinear Regression- Pearson Coefficient for valence:  0.598483370304225
+LibLinear Regression- Pearson Coefficient for valence:  0.5778623063573409
+LibLinear Regression- Pearson Coefficient for valence:  0.608854808580836
+LibLinear Regression- Pearson Coefficient for valence:  0.6115326258316206
+LibLinear Regression:Avg of pearson-coefficients for the valence :  0.6016807993667184
+--------------------------------------------
+Final PC for LibLinear Regression 0.6016807993667184
+--------------------------------------------

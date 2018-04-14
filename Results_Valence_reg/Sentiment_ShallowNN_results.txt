@@ -1,0 +1,11 @@
+Loading models...
+Models Loaded.
+Shallow Neural Net- Pearson Coefficient for valence:  0.6269411497161456
+Shallow Neural Net- Pearson Coefficient for valence:  0.5794181923568013
+Shallow Neural Net- Pearson Coefficient for valence:  0.6044276323044215
+Shallow Neural Net- Pearson Coefficient for valence:  0.6472967613146992
+Shallow Neural Net- Pearson Coefficient for valence:  0.5489284721085239
+Shallow Neural Net:Avg of pearson-coefficients for the valence :  0.6014024415601182
+--------------------------------------------
+Final PC for Shallow Neural Net 0.6014024415601182
+--------------------------------------------
