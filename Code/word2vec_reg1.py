@@ -150,7 +150,7 @@ def produceWordEmbd(rawTweet):
 emotions = ['train_anger_', 'train_fear_', 'train_joy_', 'train_sadness_', 'dev_anger_', 'dev_fear_', 'dev_joy_', 'dev_sadness_', 'test_anger_', 'test_fear_', 'test_joy_', 'test_sadness_']
 
 #Various regression methods
-regMethods = [ "Neural Nets", "Decision Tree", "Random Forests", "K-NN", "ADA-Boost", "Gradient-Boost"]
+regMethods = [ "MultiLayer Perceptron", "Decision Tree", "Random Forests", "K-NN", "ADA-Boost", "Gradient-Boost"]
 
 regModels = [MLPRegressor(solver='lbfgs', alpha=1e-5, hidden_layer_sizes=(9, 5, 7), random_state=1, activation='tanh', learning_rate='adaptive'),
 DecisionTreeRegressor(random_state=0), RandomForestRegressor(max_depth=2, random_state=0), KNeighborsRegressor(n_neighbors=2),
