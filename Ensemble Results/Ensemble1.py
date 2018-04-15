@@ -80,24 +80,6 @@ print("Data for Emotion: Sadness")
 sadness_regr, sadness_features = train('B:/CS671-NLP/Project/resources/emoint/sadness-ratings-0to1.train.txt',
     'B:/CS671-NLP/Project/resources/emoint/sadness-ratings-0to1.dev.gold.txt', featurizer, tokenizer)
 
-def plot_fig(f, regr, labels, title, num, subnum, cnt):
-    ax = f.add_subplot(subnum)
-    f.subplots_adjust(hspace=.4)
-    if subnum % 2 == 0:
-        ax.yaxis.tick_right()
-    indices = np.argsort(regr.feature_importances_)[-10:]
-    plt.barh(np.arange(len(indices)), regr.feature_importances_[indices], color=colors[cnt])
-    plt.yticks(np.arange(len(indices)) + 0.75/2 , np.array(labels)[indices])
-    plt.xlabel('Relative importance')
-    plt.title(title)
-    
-colors = ['#e41a1c', '#377eb8', '#4daf4a', '#984ea3']
-f = plt.figure(figsize=(10, 6))
-plot_fig(f, anger_regr, anger_features, 'Anger', 1, 221, 0)
-plot_fig(f, fear_regr, fear_features, 'Fear', 1, 222, 1)
-plot_fig(f, joy_regr, joy_features, 'Joy', 2, 223, 2)
-plot_fig(f, sadness_regr, sadness_features, 'Sadness', 2, 224, 3)
-
 def blend_train(train_path, dev_path, featurizer, tokenizer, clfs):
     featurizer = EmoIntFeaturizer()
     tokenizer = TweetTokenizer()
