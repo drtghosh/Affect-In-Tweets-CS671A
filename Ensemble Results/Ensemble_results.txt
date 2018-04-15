@@ -1,0 +1,56 @@
+Data for Emotion: Anger
+Shapes X: (857, 455), y: (857,)
+Shapes X: (84, 455), y: (84,)
+Validation Pearsonr: 0.643157466443
+Validation Spearmanr: 0.620405233321
+Validation Pearsonr >= 0.5: 0.349008505686
+Validation Spearmanr >= 0.5: 0.289837977558
+Data for Emotion: Fear
+Shapes X: (1147, 455), y: (1147,)
+Shapes X: (110, 455), y: (110,)
+Validation Pearsonr: 0.565311542364
+Validation Spearmanr: 0.533524085718
+Validation Pearsonr >= 0.5: 0.454226444107
+Validation Spearmanr >= 0.5: 0.410971301472
+Data for Emotion: Joy
+Shapes X: (823, 455), y: (823,)
+Shapes X: (79, 455), y: (79,)
+Validation Pearsonr: 0.723935450526
+Validation Spearmanr: 0.719557861455
+Validation Pearsonr >= 0.5: 0.337190683984
+Validation Spearmanr >= 0.5: 0.301028591252
+Data for Emotion: Sadness
+Shapes X: (786, 455), y: (786,)
+Shapes X: (74, 455), y: (74,)
+Validation Pearsonr: 0.552641415133
+Validation Spearmanr: 0.560515971029
+Validation Pearsonr >= 0.5: 0.215616497132
+Validation Spearmanr >= 0.5: 0.208482546919
+Data for Emotion: Anger
+Shapes X: (857, 455), y: (857,)
+Shapes X: (84, 455), y: (84,)
+Validation Pearsonr: 0.650128969601
+Validation Spearmanr: 0.63589136421
+Validation Pearsonr >= 0.5: 0.339763224854
+Validation Spearmanr >= 0.5: 0.253864371545
+Data for Emotion: Fear
+Shapes X: (1147, 455), y: (1147,)
+Shapes X: (110, 455), y: (110,)
+Validation Pearsonr: 0.587603648477
+Validation Spearmanr: 0.542643934791
+Validation Pearsonr >= 0.5: 0.480971152336
+Validation Spearmanr >= 0.5: 0.487507216477
+Data for Emotion: Joy
+Shapes X: (823, 455), y: (823,)
+Shapes X: (79, 455), y: (79,)
+Validation Pearsonr: 0.740497830362
+Validation Spearmanr: 0.735895125232
+Validation Pearsonr >= 0.5: 0.354656185972
+Validation Spearmanr >= 0.5: 0.308830409336
+Data for Emotion: Sadness
+Shapes X: (786, 455), y: (786,)
+Shapes X: (74, 455), y: (74,)
+Validation Pearsonr: 0.551505101643
+Validation Spearmanr: 0.5716320263
+Validation Pearsonr >= 0.5: 0.204968204401
+Validation Spearmanr >= 0.5: 0.169012550172
